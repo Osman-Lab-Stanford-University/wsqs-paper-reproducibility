@@ -1,0 +1,43 @@
+# Local Python, IDE and environment caches
+.DS_Store
+._*
+__MACOSX/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# Confidential household data and private QA
+raw_data/
+restricted_data/
+private/
+private_data/
+PRIVATE_*/
+analysis_inputs/
+analytical_master*
+*household_level*
+*respondent_level*
+*individual_predictions*
+*.parquet
+*.feather
+*.pkl
+*.cbm
+*.joblib
+*.sqlite
+*.db
+
+# Auto-generated outputs and logs
+run_outputs/
+outputs/
+logs/
+catboost_info/
+*.log
+*.tmp
+~$*
