@@ -41,8 +41,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "60d2de365ac5fc0015ad7def862ec513a07dd4b3d14caf563c0f60fca5ef0fb5",
-      "bytes": 4164
+      "sha256": "33e1c2ba8ad44382c756e048fbabee0201720547fe41a74cd8ed5813e78a8230",
+      "bytes": 8828
     },
     {
       "path": "REPRODUCIBILITY_SCOPE.md",
@@ -626,8 +626,8 @@
     },
     {
       "path": "docs/REPOSITORY_CHECKS.md",
-      "sha256": "87e1f2471014d4be1cbae4b7f119cb3d641629d5550b93b45b9c9bd23983e926",
-      "bytes": 891
+      "sha256": "cfc6048341128046fc36044a3a6263e22c13eb81397dde106a3718afe11ff80e",
+      "bytes": 934
     },
     {
       "path": "docs/REPRODUCE.md",
