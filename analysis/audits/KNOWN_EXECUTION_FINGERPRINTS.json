@@ -1,0 +1,19 @@
+{
+  "primary_analytical_N": 6039,
+  "original_N": 6145,
+  "excluded_N": 106,
+  "cohort_sha256": "c72b8480d3cff223d1d4cf0ebcc29a3dd80204d563cd63a4295f6739f0ed77a1",
+  "frozen_full_model_sha256": "7996465d0326f592e958d20bb16c4c9006d80deb333f443b97c3dc7b7e9d0f87",
+  "heldout_N": 1208,
+  "development_N": 4831,
+  "seven_domain_n": 266,
+  "stage08_signature": "e501826d2116a5eab3892407e1e398d6134adae60772610d7ff1db287e989bd2",
+  "stage09_signature": "9e162736c6d0f83a933df6d5d416f000d7bc57c1a8b149ffb3437cae8efdef42",
+  "stage09_original_source_sha256": "df50ed765c37b4e3cff767a9ed06b1ce6bd3d910a9a0823f72251fb8f687f7ad",
+  "stage10_signature_corrected": "663fcfb9db188838068c7801708564bc69f48ee0591609f4a116c768a933cb90",
+  "stage14_aggregate_files": 55,
+  "s4_aggregate_files": 13,
+  "stage09_B_refits": 200,
+  "stage07_B": 1000,
+  "source_code_checksums_note": "Source scripts copied from current conversation artifacts. Their full byte equivalence to the Mac execution history is not independently proved for every stage."
+}

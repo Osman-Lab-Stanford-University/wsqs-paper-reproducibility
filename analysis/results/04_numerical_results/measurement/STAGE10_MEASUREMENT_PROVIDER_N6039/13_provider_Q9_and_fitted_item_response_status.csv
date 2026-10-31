@@ -1,0 +1,199 @@
+scope,source,source_column,response,n,fraction
+positive_evidence,Q 9.1,Q 9.1_raw_value,Excellent,1186,0.25331055104656131
+positive_evidence,Q 9.1,Q 9.1_raw_value,Neutral,1469,0.31375480563861596
+positive_evidence,Q 9.1,Q 9.1_raw_value,Good,1555,0.332123024348569
+positive_evidence,Q 9.1,Q 9.1_raw_value,Very poor,101,0.021571977787270397
+positive_evidence,Q 9.1,Q 9.1_raw_value,Poor,267,0.057026911576249464
+positive_evidence,Q 9.1,Q 9.1_raw_value,We have a full water system in-house (not dependent on any provider),102,0.021785561725758223
+positive_evidence,Q 9.1,Q 9.1_raw_value,<MISSING>,2,0.00042716787697565144
+positive_evidence,Q 9.2,Q 9.2_raw_value,Most of the time,1680,0.35882101665954719
+positive_evidence,Q 9.2,Q 9.2_raw_value,Occasionally,1297,0.27701836821870995
+positive_evidence,Q 9.2,Q 9.2_raw_value,Always,981,0.20952584365655702
+positive_evidence,Q 9.2,Q 9.2_raw_value,Rarely,489,0.10444254592054678
+positive_evidence,Q 9.2,Q 9.2_raw_value,Never,235,0.050192225544639042
+positive_evidence,Q 9.3,Q 9.3_raw_value,Neutral,1682,0.35924818453652285
+positive_evidence,Q 9.3,Q 9.3_raw_value,Very easy,752,0.16061512174284495
+positive_evidence,Q 9.3,Q 9.3_raw_value,Easy,1349,0.28812473302007691
+positive_evidence,Q 9.3,Q 9.3_raw_value,Very difficult,197,0.042076035882101667
+positive_evidence,Q 9.3,Q 9.3_raw_value,No known stream of communication,117,0.024989320803075608
+positive_evidence,Q 9.3,Q 9.3_raw_value,Difficult,585,0.12494660401537805
+positive_evidence,Q 9.4,Q 9.4_raw_value,No,1787,0.38167449807774456
+positive_evidence,Q 9.4,Q 9.4_raw_value,Not aware,810,0.17300299017513884
+positive_evidence,Q 9.4,Q 9.4_raw_value,Yes,2085,0.44532251174711662
+positive_evidence,service_Q3_5,service_Q3_5,severity_2,2346,0.50106791969243913
+positive_evidence,service_Q3_5,service_Q3_5,severity_1,1208,0.25800939769329345
+positive_evidence,service_Q3_5,service_Q3_5,severity_3,834,0.17812900469884665
+positive_evidence,service_Q3_5,service_Q3_5,__EXPLICIT_NONUSE__,294,0.062793677915420759
+positive_evidence,service_Q3_6,service_Q3_6,severity_2,1500,0.32037590773173857
+positive_evidence,service_Q3_6,service_Q3_6,severity_3,1090,0.23280649295173003
+positive_evidence,service_Q3_6,service_Q3_6,severity_4,907,0.19372063220845792
+positive_evidence,service_Q3_6,service_Q3_6,severity_1,741,0.15826569841947885
+positive_evidence,service_Q3_6,service_Q3_6,severity_5,444,0.094831268688594622
+positive_evidence,service_Q4_2,service_Q4_2,severity_2,1770,0.37804357112345149
+positive_evidence,service_Q4_2,service_Q4_2,severity_1,1201,0.25651431012387871
+positive_evidence,service_Q4_2,service_Q4_2,severity_3,1087,0.23216574113626656
+positive_evidence,service_Q4_2,service_Q4_2,severity_4,439,0.093763348996155488
+positive_evidence,service_Q4_2,service_Q4_2,severity_5,185,0.039513028620247755
+positive_evidence,service_Q4_3,service_Q4_3,severity_2,1240,0.26484408372490387
+positive_evidence,service_Q4_3,service_Q4_3,severity_3,1129,0.24113626655275525
+positive_evidence,service_Q4_3,service_Q4_3,severity_1,864,0.18453652285348141
+positive_evidence,service_Q4_3,service_Q4_3,severity_4,757,0.16168304143528406
+positive_evidence,service_Q4_3,service_Q4_3,severity_5,503,0.10743272105937633
+positive_evidence,service_Q4_3,service_Q4_3,__NO_COMMUNICATION_STREAM__,189,0.040367364374199063
+positive_evidence,service_Q8_2,service_Q8_2,severity_4,1185,0.2530969671080735
+positive_evidence,service_Q8_2,service_Q8_2,severity_5,998,0.21315677061085006
+positive_evidence,service_Q8_2,service_Q8_2,__QUANTITY_UNKNOWN__,920,0.19649722340879966
+positive_evidence,service_Q8_2,service_Q8_2,severity_3,738,0.15762494660401538
+positive_evidence,service_Q8_2,service_Q8_2,severity_2,504,0.10764630499786416
+positive_evidence,service_Q8_2,service_Q8_2,severity_1,337,0.071977787270397262
+positive_evidence,service_Q9_2,service_Q9_2,2,1680,0.35882101665954719
+positive_evidence,service_Q9_2,service_Q9_2,3,1297,0.27701836821870995
+positive_evidence,service_Q9_2,service_Q9_2,1,981,0.20952584365655702
+positive_evidence,service_Q9_2,service_Q9_2,4,489,0.10444254592054678
+positive_evidence,service_Q9_2,service_Q9_2,5,235,0.050192225544639042
+positive_evidence,service_Q9_4,service_Q9_4,2.0,2085,0.44532251174711662
+positive_evidence,service_Q9_4,service_Q9_4,1.0,1787,0.38167449807774456
+positive_evidence,service_Q9_4,service_Q9_4,<MISSING>,810,0.17300299017513884
+no_positive_evidence,Q 9.1,Q 9.1_raw_value,Neutral,390,0.28739867354458365
+no_positive_evidence,Q 9.1,Q 9.1_raw_value,Excellent,318,0.23434045689019897
+no_positive_evidence,Q 9.1,Q 9.1_raw_value,Poor,62,0.045689019896831246
+no_positive_evidence,Q 9.1,Q 9.1_raw_value,Good,394,0.29034635224760502
+no_positive_evidence,Q 9.1,Q 9.1_raw_value,We have a full water system in-house (not dependent on any provider),158,0.11643330876934414
+no_positive_evidence,Q 9.1,Q 9.1_raw_value,Very poor,35,0.025792188651436992
+no_positive_evidence,Q 9.2,Q 9.2_raw_value,Occasionally,327,0.24097273397199706
+no_positive_evidence,Q 9.2,Q 9.2_raw_value,Most of the time,452,0.33308769344141487
+no_positive_evidence,Q 9.2,Q 9.2_raw_value,Always,299,0.22033898305084745
+no_positive_evidence,Q 9.2,Q 9.2_raw_value,Rarely,152,0.11201179071481208
+no_positive_evidence,Q 9.2,Q 9.2_raw_value,Never,127,0.09358879882092852
+no_positive_evidence,Q 9.3,Q 9.3_raw_value,Easy,344,0.25350036845983787
+no_positive_evidence,Q 9.3,Q 9.3_raw_value,Very easy,260,0.1915991156963891
+no_positive_evidence,Q 9.3,Q 9.3_raw_value,Difficult,137,0.10095799557848195
+no_positive_evidence,Q 9.3,Q 9.3_raw_value,Neutral,472,0.34782608695652173
+no_positive_evidence,Q 9.3,Q 9.3_raw_value,Very difficult,58,0.042741341193809873
+no_positive_evidence,Q 9.3,Q 9.3_raw_value,No known stream of communication,86,0.063375092114959466
+no_positive_evidence,Q 9.4,Q 9.4_raw_value,Not aware,319,0.23507737656595432
+no_positive_evidence,Q 9.4,Q 9.4_raw_value,No,514,0.37877671333824614
+no_positive_evidence,Q 9.4,Q 9.4_raw_value,Yes,524,0.38614591009579957
+no_positive_evidence,service_Q3_5,service_Q3_5,__OUTSIDE_MUNICIPAL_EVIDENCE__,1357,1
+no_positive_evidence,service_Q3_6,service_Q3_6,__OUTSIDE_MUNICIPAL_EVIDENCE__,1357,1
+no_positive_evidence,service_Q4_2,service_Q4_2,__OUTSIDE_MUNICIPAL_EVIDENCE__,1357,1
+no_positive_evidence,service_Q4_3,service_Q4_3,__OUTSIDE_MUNICIPAL_EVIDENCE__,1357,1
+no_positive_evidence,service_Q8_2,service_Q8_2,__OUTSIDE_MUNICIPAL_EVIDENCE__,1357,1
+no_positive_evidence,service_Q9_2,service_Q9_2,2,452,0.33308769344141487
+no_positive_evidence,service_Q9_2,service_Q9_2,3,327,0.24097273397199706
+no_positive_evidence,service_Q9_2,service_Q9_2,1,299,0.22033898305084745
+no_positive_evidence,service_Q9_2,service_Q9_2,4,152,0.11201179071481208
+no_positive_evidence,service_Q9_2,service_Q9_2,5,127,0.09358879882092852
+no_positive_evidence,service_Q9_4,service_Q9_4,2.0,524,0.38614591009579957
+no_positive_evidence,service_Q9_4,service_Q9_4,1.0,514,0.37877671333824614
+no_positive_evidence,service_Q9_4,service_Q9_4,<MISSING>,319,0.23507737656595432
+primary_municipal,Q 9.1,Q 9.1_raw_value,Excellent,720,0.25280898876404495
+primary_municipal,Q 9.1,Q 9.1_raw_value,Good,953,0.33462078651685395
+primary_municipal,Q 9.1,Q 9.1_raw_value,Neutral,917,0.3219803370786517
+primary_municipal,Q 9.1,Q 9.1_raw_value,Poor,155,0.054424157303370788
+primary_municipal,Q 9.1,Q 9.1_raw_value,Very poor,62,0.021769662921348316
+primary_municipal,Q 9.1,Q 9.1_raw_value,We have a full water system in-house (not dependent on any provider),40,0.014044943820224719
+primary_municipal,Q 9.1,Q 9.1_raw_value,<MISSING>,1,0.00035112359550561797
+primary_municipal,Q 9.2,Q 9.2_raw_value,Most of the time,1012,0.3553370786516854
+primary_municipal,Q 9.2,Q 9.2_raw_value,Occasionally,776,0.27247191011235955
+primary_municipal,Q 9.2,Q 9.2_raw_value,Rarely,309,0.10849719101123595
+primary_municipal,Q 9.2,Q 9.2_raw_value,Always,601,0.2110252808988764
+primary_municipal,Q 9.2,Q 9.2_raw_value,Never,150,0.052668539325842693
+primary_municipal,Q 9.3,Q 9.3_raw_value,Neutral,1015,0.35639044943820225
+primary_municipal,Q 9.3,Q 9.3_raw_value,Very difficult,114,0.04002808988764045
+primary_municipal,Q 9.3,Q 9.3_raw_value,Very easy,452,0.15870786516853932
+primary_municipal,Q 9.3,Q 9.3_raw_value,Easy,848,0.29775280898876405
+primary_municipal,Q 9.3,Q 9.3_raw_value,Difficult,351,0.12324438202247191
+primary_municipal,Q 9.3,Q 9.3_raw_value,No known stream of communication,68,0.023876404494382022
+primary_municipal,Q 9.4,Q 9.4_raw_value,No,1079,0.3788623595505618
+primary_municipal,Q 9.4,Q 9.4_raw_value,Yes,1283,0.45049157303370785
+primary_municipal,Q 9.4,Q 9.4_raw_value,Not aware,486,0.17064606741573032
+primary_municipal,service_Q3_5,service_Q3_5,severity_2,1517,0.5326544943820225
+primary_municipal,service_Q3_5,service_Q3_5,severity_1,783,0.2749297752808989
+primary_municipal,service_Q3_5,service_Q3_5,severity_3,450,0.1580056179775281
+primary_municipal,service_Q3_5,service_Q3_5,__EXPLICIT_NONUSE__,98,0.034410112359550563
+primary_municipal,service_Q3_6,service_Q3_6,severity_2,907,0.3184691011235955
+primary_municipal,service_Q3_6,service_Q3_6,severity_3,626,0.21980337078651685
+primary_municipal,service_Q3_6,service_Q3_6,severity_4,567,0.1990870786516854
+primary_municipal,service_Q3_6,service_Q3_6,severity_1,443,0.15554775280898878
+primary_municipal,service_Q3_6,service_Q3_6,severity_5,305,0.10709269662921349
+primary_municipal,service_Q4_2,service_Q4_2,severity_2,1066,0.37429775280898875
+primary_municipal,service_Q4_2,service_Q4_2,severity_1,735,0.2580758426966292
+primary_municipal,service_Q4_2,service_Q4_2,severity_3,663,0.23279494382022473
+primary_municipal,service_Q4_2,service_Q4_2,severity_4,264,0.09269662921348315
+primary_municipal,service_Q4_2,service_Q4_2,severity_5,120,0.042134831460674156
+primary_municipal,service_Q4_3,service_Q4_3,severity_2,742,0.26053370786516855
+primary_municipal,service_Q4_3,service_Q4_3,severity_3,648,0.22752808988764045
+primary_municipal,service_Q4_3,service_Q4_3,severity_1,565,0.19838483146067415
+primary_municipal,service_Q4_3,service_Q4_3,severity_4,448,0.15730337078651685
+primary_municipal,service_Q4_3,service_Q4_3,severity_5,329,0.11551966292134831
+primary_municipal,service_Q4_3,service_Q4_3,__NO_COMMUNICATION_STREAM__,116,0.040730337078651688
+primary_municipal,service_Q8_2,service_Q8_2,severity_4,712,0.25
+primary_municipal,service_Q8_2,service_Q8_2,severity_5,596,0.20926966292134833
+primary_municipal,service_Q8_2,service_Q8_2,__QUANTITY_UNKNOWN__,580,0.20365168539325842
+primary_municipal,service_Q8_2,service_Q8_2,severity_3,413,0.14501404494382023
+primary_municipal,service_Q8_2,service_Q8_2,severity_2,325,0.11411516853932584
+primary_municipal,service_Q8_2,service_Q8_2,severity_1,222,0.077949438202247187
+primary_municipal,service_Q9_2,service_Q9_2,2,1012,0.3553370786516854
+primary_municipal,service_Q9_2,service_Q9_2,3,776,0.27247191011235955
+primary_municipal,service_Q9_2,service_Q9_2,1,601,0.2110252808988764
+primary_municipal,service_Q9_2,service_Q9_2,4,309,0.10849719101123595
+primary_municipal,service_Q9_2,service_Q9_2,5,150,0.052668539325842693
+primary_municipal,service_Q9_4,service_Q9_4,2.0,1283,0.45049157303370785
+primary_municipal,service_Q9_4,service_Q9_4,1.0,1079,0.3788623595505618
+primary_municipal,service_Q9_4,service_Q9_4,<MISSING>,486,0.17064606741573032
+other_primary_with_municipal_evidence,Q 9.1,Q 9.1_raw_value,Neutral,552,0.30098146128680481
+other_primary_with_municipal_evidence,Q 9.1,Q 9.1_raw_value,Good,602,0.3282442748091603
+other_primary_with_municipal_evidence,Q 9.1,Q 9.1_raw_value,Excellent,466,0.25408942202835333
+other_primary_with_municipal_evidence,Q 9.1,Q 9.1_raw_value,Very poor,39,0.021264994547437296
+other_primary_with_municipal_evidence,Q 9.1,Q 9.1_raw_value,Poor,112,0.061068702290076333
+other_primary_with_municipal_evidence,Q 9.1,Q 9.1_raw_value,We have a full water system in-house (not dependent on any provider),62,0.033805888767720831
+other_primary_with_municipal_evidence,Q 9.1,Q 9.1_raw_value,<MISSING>,1,0.00054525627044711017
+other_primary_with_municipal_evidence,Q 9.2,Q 9.2_raw_value,Occasionally,521,0.28407851690294439
+other_primary_with_municipal_evidence,Q 9.2,Q 9.2_raw_value,Most of the time,668,0.3642311886586696
+other_primary_with_municipal_evidence,Q 9.2,Q 9.2_raw_value,Always,380,0.20719738276990185
+other_primary_with_municipal_evidence,Q 9.2,Q 9.2_raw_value,Never,85,0.046346782988004362
+other_primary_with_municipal_evidence,Q 9.2,Q 9.2_raw_value,Rarely,180,0.098146128680479824
+other_primary_with_municipal_evidence,Q 9.3,Q 9.3_raw_value,Neutral,667,0.36368593238822244
+other_primary_with_municipal_evidence,Q 9.3,Q 9.3_raw_value,Very easy,300,0.16357688113413305
+other_primary_with_municipal_evidence,Q 9.3,Q 9.3_raw_value,Easy,501,0.27317339149400216
+other_primary_with_municipal_evidence,Q 9.3,Q 9.3_raw_value,No known stream of communication,49,0.026717557251908396
+other_primary_with_municipal_evidence,Q 9.3,Q 9.3_raw_value,Difficult,234,0.12758996728462377
+other_primary_with_municipal_evidence,Q 9.3,Q 9.3_raw_value,Very difficult,83,0.045256270447110142
+other_primary_with_municipal_evidence,Q 9.4,Q 9.4_raw_value,Not aware,324,0.17666303162486369
+other_primary_with_municipal_evidence,Q 9.4,Q 9.4_raw_value,Yes,802,0.43729552889858231
+other_primary_with_municipal_evidence,Q 9.4,Q 9.4_raw_value,No,708,0.386041439476554
+other_primary_with_municipal_evidence,service_Q3_5,service_Q3_5,severity_2,829,0.45201744820065431
+other_primary_with_municipal_evidence,service_Q3_5,service_Q3_5,severity_1,425,0.23173391494002182
+other_primary_with_municipal_evidence,service_Q3_5,service_Q3_5,severity_3,384,0.20937840785169029
+other_primary_with_municipal_evidence,service_Q3_5,service_Q3_5,__EXPLICIT_NONUSE__,196,0.10687022900763359
+other_primary_with_municipal_evidence,service_Q3_6,service_Q3_6,severity_2,593,0.32333696837513631
+other_primary_with_municipal_evidence,service_Q3_6,service_Q3_6,severity_3,464,0.25299890948745912
+other_primary_with_municipal_evidence,service_Q3_6,service_Q3_6,severity_4,340,0.18538713195201745
+other_primary_with_municipal_evidence,service_Q3_6,service_Q3_6,severity_1,298,0.16248636859323881
+other_primary_with_municipal_evidence,service_Q3_6,service_Q3_6,severity_5,139,0.075790621592148305
+other_primary_with_municipal_evidence,service_Q4_2,service_Q4_2,severity_2,704,0.38386041439476554
+other_primary_with_municipal_evidence,service_Q4_2,service_Q4_2,severity_1,466,0.25408942202835333
+other_primary_with_municipal_evidence,service_Q4_2,service_Q4_2,severity_3,424,0.23118865866957469
+other_primary_with_municipal_evidence,service_Q4_2,service_Q4_2,severity_4,175,0.095419847328244281
+other_primary_with_municipal_evidence,service_Q4_2,service_Q4_2,severity_5,65,0.035441657579062161
+other_primary_with_municipal_evidence,service_Q4_3,service_Q4_3,severity_2,498,0.27153762268266085
+other_primary_with_municipal_evidence,service_Q4_3,service_Q4_3,severity_3,481,0.26226826608505999
+other_primary_with_municipal_evidence,service_Q4_3,service_Q4_3,severity_4,309,0.16848418756815703
+other_primary_with_municipal_evidence,service_Q4_3,service_Q4_3,severity_1,299,0.16303162486368594
+other_primary_with_municipal_evidence,service_Q4_3,service_Q4_3,severity_5,174,0.094874591057797164
+other_primary_with_municipal_evidence,service_Q4_3,service_Q4_3,__NO_COMMUNICATION_STREAM__,73,0.039803707742639041
+other_primary_with_municipal_evidence,service_Q8_2,service_Q8_2,severity_4,473,0.25790621592148311
+other_primary_with_municipal_evidence,service_Q8_2,service_Q8_2,severity_5,402,0.21919302071973829
+other_primary_with_municipal_evidence,service_Q8_2,service_Q8_2,__QUANTITY_UNKNOWN__,340,0.18538713195201745
+other_primary_with_municipal_evidence,service_Q8_2,service_Q8_2,severity_3,325,0.17720828789531079
+other_primary_with_municipal_evidence,service_Q8_2,service_Q8_2,severity_2,179,0.097600872410032721
+other_primary_with_municipal_evidence,service_Q8_2,service_Q8_2,severity_1,115,0.062704471101417664
+other_primary_with_municipal_evidence,service_Q9_2,service_Q9_2,2,668,0.3642311886586696
+other_primary_with_municipal_evidence,service_Q9_2,service_Q9_2,3,521,0.28407851690294439
+other_primary_with_municipal_evidence,service_Q9_2,service_Q9_2,1,380,0.20719738276990185
+other_primary_with_municipal_evidence,service_Q9_2,service_Q9_2,4,180,0.098146128680479824
+other_primary_with_municipal_evidence,service_Q9_2,service_Q9_2,5,85,0.046346782988004362
+other_primary_with_municipal_evidence,service_Q9_4,service_Q9_4,2.0,802,0.43729552889858231
+other_primary_with_municipal_evidence,service_Q9_4,service_Q9_4,1.0,708,0.386041439476554
+other_primary_with_municipal_evidence,service_Q9_4,service_Q9_4,<MISSING>,324,0.17666303162486369

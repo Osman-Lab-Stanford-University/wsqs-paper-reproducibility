@@ -1,0 +1,7 @@
+primary_domestic_provision,n,mean_score_100,bootstrap_ci2p5,bootstrap_ci97p5,B,seed,bootstrap_definition
+"Buy water from stores (e.g., canned water)",64,68.06640625,63.671875,72.16796875,750,20261014,750 within-provision household resamples with replacement
+Buy water from trucks,81,68.672839506172835,64.754602072310405,72.171241181657848,750,20261015,750 within-provision household resamples with replacement
+Groundwater,2630,72.885659967409026,72.31179131586093,73.452543624388923,750,20261016,750 within-provision household resamples with replacement
+Lake/Pond,322,69.825865128660169,68.257056898846486,71.425521295474709,750,20261017,750 within-provision household resamples with replacement
+Other sources,94,68.854483282674778,65.159099544072944,71.956686930091195,750,20261018,750 within-provision household resamples with replacement
+Water from Municipality/Corporation,2848,71.166796247993574,70.602047646217898,71.745146970304972,750,20261019,750 within-provision household resamples with replacement

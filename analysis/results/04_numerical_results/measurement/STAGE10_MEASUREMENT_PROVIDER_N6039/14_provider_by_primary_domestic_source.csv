@@ -1,0 +1,13 @@
+primary_domestic_Q1_1,positive_municipal_use_evidence_Q1_1_to_Q1_3,n,pct_full
+"Buy water from stores (e.g., canned water)",False,20,0.0033118065904951151
+"Buy water from stores (e.g., canned water)",True,44,0.0072859744990892532
+Buy water from trucks,False,17,0.0028150356019208478
+Buy water from trucks,True,64,0.010597781089584368
+Groundwater,False,1158,0.19175360158966717
+Groundwater,True,1472,0.24374896506044047
+Lake/Pond,False,129,0.021361152508693491
+Lake/Pond,True,193,0.03195893359827786
+Other sources,False,33,0.0054644808743169399
+Other sources,True,61,0.010101010101010102
+Water from Municipality/Corporation,False,0,0
+Water from Municipality/Corporation,True,2848,0.47160125848650442

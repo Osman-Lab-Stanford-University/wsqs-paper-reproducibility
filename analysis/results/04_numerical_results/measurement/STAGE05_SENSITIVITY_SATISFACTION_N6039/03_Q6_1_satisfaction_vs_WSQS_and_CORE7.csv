@@ -1,0 +1,4 @@
+outcome,n,pearson_r,spearman_rho,Q6_1_direction,is_external_criterion
+CORE8,6039,0.59916890107579057,0.67298846022250203,100=completely satisfied; 0=completely dissatisfied,False
+CORE7A,6039,0.40595319212161629,0.49187419159904122,100=completely satisfied; 0=completely dissatisfied,False
+CORE7B,6039,0.60383579746481852,0.67454947632276252,100=completely satisfied; 0=completely dissatisfied,False

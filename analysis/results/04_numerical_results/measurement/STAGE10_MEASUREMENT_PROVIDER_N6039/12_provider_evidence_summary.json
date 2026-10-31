@@ -1,0 +1,30 @@
+{
+  "N": 6039,
+  "municipal_positive_evidence": 4682,
+  "outside_positive_evidence": 1357,
+  "municipal_primary_domestic": 2848,
+  "municipal_evidence_nonprimary_domestic": 1834,
+  "source_note": "Absence of positive municipal evidence is NOT proof of nonuse or absence of any provider",
+  "q9_status_by_evidence": [
+    {
+      "has_positive_municipal_evidence": false,
+      "n_households": 1357,
+      "q9_1_customer_service_valid_rating_n": 1199,
+      "q9_1_customer_service_unavailable_n": 158,
+      "q9_2_complaint_resolution_valid_rating_n": 1357,
+      "q9_2_complaint_resolution_unavailable_n": 0,
+      "q9_2_absence_not_treated_as_never_complained": true
+    },
+    {
+      "has_positive_municipal_evidence": true,
+      "n_households": 4682,
+      "q9_1_customer_service_valid_rating_n": 4578,
+      "q9_1_customer_service_unavailable_n": 104,
+      "q9_2_complaint_resolution_valid_rating_n": 4682,
+      "q9_2_complaint_resolution_unavailable_n": 0,
+      "q9_2_absence_not_treated_as_never_complained": true
+    }
+  ],
+  "Q9_1_explicit_full_inhouse_N": 260,
+  "Q9_1_genuinely_unanswered_or_other_unscored_N": 2
+}

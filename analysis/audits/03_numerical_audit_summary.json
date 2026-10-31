@@ -1,0 +1,57 @@
+{
+  "status": "PASS",
+  "audit_type": "numerical provenance and exhibit coverage only",
+  "source_sha256": "c72b8480d3cff223d1d4cf0ebcc29a3dd80204d563cd63a4295f6739f0ed77a1",
+  "stage_checks": [
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10"
+  ],
+  "verified_numeric_result_files": 49,
+  "counts_by_exhibit_status": {
+    "AWAITING_SIDECAR": 10,
+    "NUMERIC_SOURCE_PRESENT": 36,
+    "STATIC_METHOD_REVIEW": 10
+  },
+  "metrics": {
+    "cohort_n": 6039,
+    "heldout_n": 1208,
+    "seven_domain_n": 266,
+    "Customer_service_missing": 262,
+    "Quality_missing": 4,
+    "CORE8_mean": 71.74156672107492,
+    "CORE8_alpha": 0.757708861498393,
+    "KMO": 0.9415951629879578,
+    "factor_count": 5,
+    "positive_municipal_evidence_n": 4682,
+    "full_model_R2": 0.5489500961704908,
+    "priority_null_exceedances": 4,
+    "priority_null_repetitions": 1000,
+    "priority_null_plus_one_p": 0.0049950049950049,
+    "service_profile_refits": 200,
+    "pressure_eligible_heldout": 943
+  },
+  "stage_audit_sha256": {
+    "04": "6c85aafd85fc5d9c4cf9a764f74559cbf72768bd7d76871cdb4337879e0174a6",
+    "05": "6c966fdccd97467ac6ffdf3b06c8d94869bf279690de6007ed917d8ed7b84670",
+    "06": "7fcc62ec9da349ec32722bea0d678839ddd24e5c1d814f2576ddf2a145c20f98",
+    "07": "d323627a4163bc24bf3e241dbb9a13789521568d41fa101882d0e588149f7603",
+    "08": "981a923fb104b6a4fa49c1c36512cecdda8a7e0c4cd85fc490819d9d131e1521",
+    "09": "fef21a1eca81099b31ce929be66df879a93f4f871b875f370d79f56f9c691931",
+    "10": "d5dfe5087a02a01be1ef41c9bfb62b424a998a06163cba73c5f675c4ef0db5aa"
+  },
+  "new_PI_analyses_not_in_original_56": [
+    "eight matched cross-domain CP baselines",
+    "Q6.1 satisfaction and CORE7A profiles"
+  ],
+  "not_claimed": [
+    "final figures generated",
+    "final tables typeset",
+    "sidecar complete",
+    "reproducibility public release complete"
+  ]
+}

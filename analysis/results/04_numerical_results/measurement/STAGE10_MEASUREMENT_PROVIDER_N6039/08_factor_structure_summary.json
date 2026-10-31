@@ -1,0 +1,183 @@
+{
+  "item_count": 30,
+  "n_households": 6039,
+  "q93_source_column": "Q 9.3_raw_value",
+  "q93_treatment": "original response categories, with no channel unscored",
+  "excluded_from_factor": [
+    "Q2.8 (nonordinal categorical)",
+    "Q6.5 (not part of the 30-item diagnostic set)"
+  ],
+  "factor_input_missingness": {
+    "Affordability CORE8": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Access CORE8": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Reliability CORE8": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Efficiency CORE8": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Acceptability CORE8": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Quality CORE8": {
+      "n_missing": 4,
+      "missing_fraction": 0.000662361318099023
+    },
+    "Quantity CORE8": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Customer_service CORE8": {
+      "n_missing": 262,
+      "missing_fraction": 0.04338466633548601
+    },
+    "Q2.3": {
+      "n_missing": 2262,
+      "missing_fraction": 0.37456532538499754
+    },
+    "Q2.5": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Q3.2": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Q3.3": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Q3.5": {
+      "n_missing": 693,
+      "missing_fraction": 0.11475409836065574
+    },
+    "Q3.6": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Q4.2": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Q4.3": {
+      "n_missing": 313,
+      "missing_fraction": 0.05182977314124855
+    },
+    "Q4.4": {
+      "n_missing": 389,
+      "missing_fraction": 0.06441463818512999
+    },
+    "Q5.2": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Q5.3": {
+      "n_missing": 394,
+      "missing_fraction": 0.06524258983275377
+    },
+    "Q6.2": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Q6.3": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Q6.4": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Q7.3": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Q7.4": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Q8.2": {
+      "n_missing": 1418,
+      "missing_fraction": 0.23480708726610366
+    },
+    "Q8.3": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Q8.4": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Q9.2": {
+      "n_missing": 0,
+      "missing_fraction": 0.0
+    },
+    "Q9.4": {
+      "n_missing": 1129,
+      "missing_fraction": 0.18695148203344925
+    },
+    "Q9.3": {
+      "n_missing": 203,
+      "missing_fraction": 0.033614836893525415
+    }
+  },
+  "factor_imputation": "median, exploratory diagnostics only, never WSQS scoring",
+  "parallel_null_repetitions": 300,
+  "parallel_seed": 20260715,
+  "parallel_reference": "columnwise independently permuted 95th percentile",
+  "factors_retained": 5,
+  "overall_kmo": 0.9415951629879578,
+  "bartlett_chisquare": 38992.63297205326,
+  "bartlett_df": 435,
+  "bartlett_p": 0.0,
+  "alpha_30_imputed": 0.8694117805989184,
+  "high_similarity_pairs_ge_0_8": 0,
+  "high_similarity_pairs_ge_0_9": 0,
+  "weak_primary_loadings_count": 8,
+  "cross_loading_count_at_0_3": 0,
+  "factor_correlations": [
+    [
+      1.0000000000000002,
+      0.5836879501692581,
+      0.20976524679695369,
+      0.43427495745380207,
+      0.6412870603616709
+    ],
+    [
+      0.5836879501692581,
+      1.0000000000000002,
+      0.3004859182918983,
+      0.42953583023441094,
+      0.4400764841562794
+    ],
+    [
+      0.20976524679695369,
+      0.3004859182918983,
+      1.0,
+      0.20348807422957665,
+      0.2190400242849663
+    ],
+    [
+      0.43427495745380207,
+      0.42953583023441094,
+      0.20348807422957665,
+      1.0000000000000002,
+      0.4589366838014218
+    ],
+    [
+      0.6412870603616709,
+      0.4400764841562794,
+      0.2190400242849663,
+      0.4589366838014218,
+      1.0000000000000002
+    ]
+  ]
+}

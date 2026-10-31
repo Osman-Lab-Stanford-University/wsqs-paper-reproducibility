@@ -1,0 +1,92 @@
+{
+  "domains": {
+    "Affordability": {
+      "Q2.3": "Q2_3_cost_raw_severity",
+      "Q2.5": "Q2_5_value_for_money_raw_severity",
+      "Q2.8": "Q2_8_afford_disruption_category"
+    },
+    "Access": {
+      "Q3.2": "Q3_2_travel_time_raw_severity",
+      "Q3.3": "Q3_3_waiting_time_raw_severity",
+      "Q3.5": "Q3_5_municipal_availability_raw_severity",
+      "Q3.6": "Q3_6_supply_schedule_raw_severity"
+    },
+    "Reliability": {
+      "Q4.2": "Q4_2_pressure_raw_severity",
+      "Q4.3": "Q4_3_disruption_notice_raw_severity",
+      "Q4.4": "Q4_4_backup_raw_severity"
+    },
+    "Efficiency": {
+      "Q5.2": "Q5_2_service_variation_raw_severity",
+      "Q5.3": "Q5_3_maintenance_raw_severity"
+    },
+    "Acceptability": {
+      "Q6.2": "Q6_2_appearance_acceptability_raw_severity",
+      "Q6.3": "Q6_3_taste_acceptability_raw_severity",
+      "Q6.4": "Q6_4_odor_acceptability_raw_severity"
+    },
+    "Quality": {
+      "Q7.3": "Q7_3_clarity_raw_severity",
+      "Q7.4": "Q7_4_quality_change_raw_severity"
+    },
+    "Quantity": {
+      "Q8.2": "Q8_2_volume_raw_severity",
+      "Q8.3": "Q8_3_shortage_raw_severity",
+      "Q8.4": "Q8_4_seasonal_quantity_raw_severity"
+    },
+    "Customer_service": {
+      "Q9.2": "Q9_2_complaint_resolution_raw_severity",
+      "Q9.4": "Q9_4_service_repair_delays_raw_severity"
+    }
+  },
+  "context": {
+    "context_primary_provision": "Q 1.1_raw_value",
+    "context_household_size": "Q 15.10_raw_value",
+    "context_dwelling": "Q 15.14_raw_value"
+  },
+  "provider_items": [
+    "Q3.5",
+    "Q3.6",
+    "Q4.2",
+    "Q4.3",
+    "Q8.2"
+  ],
+  "special": {
+    "Q3.5": [
+      "Q 3.5_raw_value",
+      "We don't use corporation water",
+      "__EXPLICIT_NONUSE__"
+    ],
+    "Q4.3": [
+      "Q 4.3_raw_value",
+      "There is no stream of communication",
+      "__NO_COMMUNICATION_STREAM__"
+    ],
+    "Q8.2": [
+      "Q 8.2_raw_value",
+      "I don’t know",
+      "__QUANTITY_UNKNOWN__"
+    ]
+  },
+  "native_three": [
+    "Q3.5",
+    "Q4.4",
+    "Q5.2",
+    "Q5.3",
+    "Q7.4",
+    "Q8.4"
+  ],
+  "native_two": [
+    "Q9.4"
+  ],
+  "priority_columns": [
+    "Affordability_priority_0_10",
+    "Access_priority_0_10",
+    "Reliability_priority_0_10",
+    "Efficiency_priority_0_10",
+    "Acceptability_priority_0_10",
+    "Quality_priority_0_10",
+    "Quantity_priority_0_10",
+    "Customer_service_priority_0_10"
+  ]
+}

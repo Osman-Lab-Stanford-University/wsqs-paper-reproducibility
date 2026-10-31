@@ -1,0 +1,3 @@
+service_condition,feature,priority,evaluation_n,priority_25th,priority_75th,severity5_minus1_low_priority,severity5_minus1_high_priority,modification_high_minus_low,uncertainty,bootstrap_refits
+Water appearance,service_Q6_2,Acceptability_priority_0_10,1208,6,9,-7.4160876481803371,-7.3805276573339427,0.035559990846394385,not calculated; frozen model only,0
+Water clarity,service_Q7_3,Quality_priority_0_10,1208,6,9,-5.267975665708164,-5.2679756657081782,-1.4210854715202004e-14,not calculated; frozen model only,0

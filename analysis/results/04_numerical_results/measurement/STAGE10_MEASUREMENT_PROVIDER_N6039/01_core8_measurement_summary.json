@@ -1,0 +1,26 @@
+{
+  "N": 6039,
+  "CORE8_mean": 71.74156672107492,
+  "CORE8_sd": 15.820074693013398,
+  "CORE8_median": 71.875,
+  "CORE8_q025_q25_q75_q975": [
+    40.625,
+    60.714285714285715,
+    84.375,
+    100.0
+  ],
+  "CORE8_min": 0.0,
+  "CORE8_max": 100.0,
+  "eight_domain_n": 5773,
+  "seven_domain_n": 266,
+  "missing_by_domain": {
+    "Affordability": 0,
+    "Access": 0,
+    "Reliability": 0,
+    "Efficiency": 0,
+    "Acceptability": 0,
+    "Quality": 4,
+    "Quantity": 0,
+    "Customer_service": 262
+  }
+}

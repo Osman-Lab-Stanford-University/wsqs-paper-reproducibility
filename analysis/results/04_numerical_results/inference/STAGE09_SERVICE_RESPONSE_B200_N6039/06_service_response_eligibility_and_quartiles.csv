@@ -1,0 +1,5 @@
+service_condition,feature,eligible_heldout_households,heldout_total,eligibility_rule,priority_25th,priority_75th
+Complaint resolution,service_Q9_2,1208,1208,all frozen heldout households,6,9
+Value for money,service_Q2_5,1208,1208,all frozen heldout households,5,8
+Water pressure,service_Q4_2,943,1208,substantive Q4.2 severity_1 to severity_5; municipal use applicable,5,8
+Shortage frequency,service_Q8_3,1208,1208,all frozen heldout households,6,9

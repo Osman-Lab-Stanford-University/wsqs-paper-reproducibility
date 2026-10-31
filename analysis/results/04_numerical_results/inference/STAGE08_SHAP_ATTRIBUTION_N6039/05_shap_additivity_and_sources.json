@@ -1,0 +1,20 @@
+{
+  "signature": "e501826d2116a5eab3892407e1e398d6134adae60772610d7ff1db287e989bd2",
+  "model_id": "BLOCK_SCP",
+  "source_data_sha256": "c72b8480d3cff223d1d4cf0ebcc29a3dd80204d563cd63a4295f6739f0ed77a1",
+  "model_sha256": "7996465d0326f592e958d20bb16c4c9006d80deb333f443b97c3dc7b7e9d0f87",
+  "heldout_n": 1208,
+  "feature_n": 33,
+  "shap_additivity_max_abs_error": 7.105427357601002e-14,
+  "frozen_prediction_max_abs_error": 1.4210854715202004e-14,
+  "original_model_tree_count": 500,
+  "total_mean_abs_shap_wsqs_points": 21.761089235513875,
+  "top15_percent_total_abs_shap": 84.39697017290347,
+  "bootstrap": {
+    "resamples": 1000,
+    "seed": 20260714,
+    "sampling": "heldout households with replacement",
+    "model_refit": false
+  },
+  "note": "Grouped absolute SHAP, not three-block Shapley R2; attribution not causal"
+}

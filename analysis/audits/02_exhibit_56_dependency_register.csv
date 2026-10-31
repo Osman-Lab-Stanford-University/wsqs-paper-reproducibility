@@ -1,0 +1,57 @@
+exhibit,description,numeric_dependencies,additional_work,status,layout_rendered,manuscript_text_reconciled
+F1,Study area / provision map,10,SIDE,AWAITING_SIDECAR,NO,NO
+F2,Eight service domains and priorities,10,,NUMERIC_SOURCE_PRESENT,NO,NO
+F3,WSQS score structure / weighting,"10,05",,NUMERIC_SOURCE_PRESENT,NO,NO
+F4,Primary-provision service profiles,10,,NUMERIC_SOURCE_PRESENT,NO,NO
+F5,Nested and independent block prediction,"04,07",,NUMERIC_SOURCE_PRESENT,NO,NO
+F6,SHAP + cross-domain attribution,"04,08",,NUMERIC_SOURCE_PRESENT,NO,NO
+F7,Model-derived service-response curves,09,,NUMERIC_SOURCE_PRESENT,NO,NO
+F8,Repeated splits and learner robustness,"05,06",,NUMERIC_SOURCE_PRESENT,NO,NO
+T1,CORE8 and eight domains,10,,NUMERIC_SOURCE_PRESENT,NO,NO
+T2,Stated priority summary,10,,NUMERIC_SOURCE_PRESENT,NO,NO
+T3,WSQS weighting sensitivity,"10,05",,NUMERIC_SOURCE_PRESENT,NO,NO
+T4,Nested model held-out performance,04,,NUMERIC_SOURCE_PRESENT,NO,NO
+T5,Grouped SHAP and block Shapley R2,"04,08",,NUMERIC_SOURCE_PRESENT,NO,NO
+T6,Top individual SHAP predictors,08,,NUMERIC_SOURCE_PRESENT,NO,NO
+T7,Priority-conditioned response contrasts,09,,NUMERIC_SOURCE_PRESENT,NO,NO
+T8,Alternative WSQS outcomes,05,,NUMERIC_SOURCE_PRESENT,NO,NO
+SF1,Survey response and exclusion flow,COHORT,SIDE,AWAITING_SIDECAR,NO,NO
+SF2,Survey participation timestamps,,SIDE,AWAITING_SIDECAR,NO,NO
+SF3,30-item exploratory factor structure,10,,NUMERIC_SOURCE_PRESENT,NO,NO
+SF4,WSQS weighting agreement,10,,NUMERIC_SOURCE_PRESENT,NO,NO
+SF5,Score coding transformation schematic,,STATIC,STATIC_METHOD_REVIEW,NO,NO
+SF6,Full 33-variable SHAP ranking,08,,NUMERIC_SOURCE_PRESENT,NO,NO
+SF7,Priority modification uncertainty,09,,NUMERIC_SOURCE_PRESENT,NO,NO
+SF8,Household benchmark / provision composition,10,"SIDE,STATIC",AWAITING_SIDECAR,NO,NO
+SF9,Geographic and settlement breadth,,SIDE,AWAITING_SIDECAR,NO,NO
+ST1,Analytical sample and partition construction,"COHORT,04",SIDE,AWAITING_SIDECAR,NO,NO
+ST2,Karur survey-screen illustration,,SIDE,AWAITING_SIDECAR,NO,NO
+ST3,Demographics and education,,SIDE,AWAITING_SIDECAR,NO,NO
+ST4,CORE8 domain item/predictor exclusion map,,STATIC,STATIC_METHOD_REVIEW,NO,NO
+ST5,Seven/eight domain completeness,10,,NUMERIC_SOURCE_PRESENT,NO,NO
+ST6,"Questionbook, coding and survey response map",,STATIC,STATIC_METHOD_REVIEW,NO,NO
+ST7,CORE8 original response frequencies,10,,NUMERIC_SOURCE_PRESENT,NO,NO
+ST8,Exploratory factor diagnostics,10,,NUMERIC_SOURCE_PRESENT,NO,NO
+ST9,CORE8 alpha and 95% intervals,10,,NUMERIC_SOURCE_PRESENT,NO,NO
+ST10,Thirty-item factor loadings,10,,NUMERIC_SOURCE_PRESENT,NO,NO
+ST11,Predictor block inclusion / roles,,STATIC,STATIC_METHOD_REVIEW,NO,NO
+ST12,Support predictor definitions,,STATIC,STATIC_METHOD_REVIEW,NO,NO
+ST13,Household context definitions,,STATIC,STATIC_METHOD_REVIEW,NO,NO
+ST14,Municipal-use evidence and Q9 applicability,10,,NUMERIC_SOURCE_PRESENT,NO,NO
+ST15,Model design and validation denominators,"04,05,COHORT",STATIC,STATIC_METHOD_REVIEW,NO,NO
+ST16,Ten split block predictive performance,06,,NUMERIC_SOURCE_PRESENT,NO,NO
+ST17,Paired incremental priority changes,06,,NUMERIC_SOURCE_PRESENT,NO,NO
+ST18,Order independent block Shapley,04,,NUMERIC_SOURCE_PRESENT,NO,NO
+ST19,Seven learner benchmark,06,,NUMERIC_SOURCE_PRESENT,NO,NO
+ST20,Alternative predictors,05,,NUMERIC_SOURCE_PRESENT,NO,NO
+ST21,Priority-weighted alternative outcomes,05,,NUMERIC_SOURCE_PRESENT,NO,NO
+ST22,Eight domain cross-prediction + new CP baselines,04,,NUMERIC_SOURCE_PRESENT,NO,NO
+ST23,CORE7A/CORE7B sensitivity,"05,10",,NUMERIC_SOURCE_PRESENT,NO,NO
+ST24,Learner hyperparameters / tree selection,"04,05",STATIC,STATIC_METHOD_REVIEW,NO,NO
+ST25,Partitions and reproducibility environment,"COHORT,04",STATIC,STATIC_METHOD_REVIEW,NO,NO
+ST26,Grouped SHAP / conditional bootstrap,08,,NUMERIC_SOURCE_PRESENT,NO,NO
+ST27,All 22 support–priority pair mappings,"09,10",STATIC,STATIC_METHOD_REVIEW,NO,NO
+ST28,Five-level predicted service responses,09,,NUMERIC_SOURCE_PRESENT,NO,NO
+ST29,Adjacent-category B200 intervals and counts,09,,NUMERIC_SOURCE_PRESENT,NO,NO
+ST30,External benchmark harmonization,,"SIDE,STATIC",AWAITING_SIDECAR,NO,NO
+ST31,Geography/settlement subgroup evidence,,SIDE,AWAITING_SIDECAR,NO,NO

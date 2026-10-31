@@ -1,0 +1,19 @@
+{
+  "complete_case_n": 5773,
+  "alpha_raw_complete_case": 0.757708861498393,
+  "alpha_raw_complete_case_CI95": [
+    0.7466770143789333,
+    0.7679698066014048
+  ],
+  "alpha_raw_median_imputed": 0.7573874509272442,
+  "alpha_raw_median_imputed_CI95": [
+    0.7463832783693998,
+    0.7672768910739042
+  ],
+  "alpha_standardized_complete_case": 0.7665605052870406,
+  "mean_pairwise_pearson_r": 0.29101680078667574,
+  "mean_pairwise_spearman_rho": 0.31602367363259626,
+  "bootstrap_resamples": 1000,
+  "bootstrap_seed": 20260714,
+  "interpretation": "Descriptive internal coherence, not external criterion validation"
+}

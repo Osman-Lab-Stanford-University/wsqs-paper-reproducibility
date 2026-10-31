@@ -1,0 +1,45 @@
+{
+  "inputs": {
+    "data_sha256": "c72b8480d3cff223d1d4cf0ebcc29a3dd80204d563cd63a4295f6739f0ed77a1",
+    "stage04_signature": "b473b1fc643379cf468466d17a3154bd7349f0be0e4834ce852b07c5e855a647",
+    "stage06_signature": "1155c79e05b4e46e0653862df3b27c3dabbe3c378f2162d46400bbd4f10a9ba3",
+    "stage07_script_sha256": "69c5c200f56714761c9d872e12942010e98523a8047ed1e902ac987a48ec8614",
+    "source_sha256": {
+      "02_code_private/reconciled/WSQS_Study_Repro_N6039/src/wsqs/models.py": "3f0bb2d48dcfadb1cad46f9303819836db85ed51a73954d0960e2b93e22cc82d",
+      "02_code_private/reconciled/WSQS_Study_Repro_N6039/src/wsqs/features.py": "d1f34755e5707b264f34e7c456afc666bebec027a98bec75d0238c4a7e240c61",
+      "02_code_private/reconciled/WSQS_Study_Repro_N6039/src/wsqs/extended.py": "fc7b11e3f951171888b527d7ba271492a0ca017ef520c689cf404058ee5d1429",
+      "02_code_private/reconciled/WSQS_Study_Repro_N6039/config/models.json": "0e57f08d38bdf1fd1fb1b2c3cea7d6dc0f4bb17313de0527b7cda3e5bd324492",
+      "02_code_private/reconciled/WSQS_Study_Repro_N6039/config/scientific_plans.json": "fea884adec86625ccfe8a4597f9f68e73854f7758484f2a794f74f436eab3b8c",
+      "02_code_private/reconciled/WSQS_Study_Repro_N6039/config/feature_spec.json": "142f9dff2e3d8dd34260778f0b0a23eddeb1d04b0737ddf532cc4a666c976530"
+    },
+    "B": 1000,
+    "seed": 20260714,
+    "seed_offset": 1000,
+    "validation_stream_offset": 100000,
+    "randomization": "joint eight-dimensional priority vectors, separately within fitting and validation",
+    "heldout_shuffle": false,
+    "model_selection": "validation-selected trees, then full development refit",
+    "reference_model": "frozen Stage04 SC"
+  },
+  "method": "train-only joint eight-dimensional vector shuffle; validation-selected CatBoost followed by full development refit",
+  "summary": {
+    "n_households": 6039,
+    "n_heldout": 1208,
+    "B": 1000,
+    "observed_SC_r2": 0.542674904555283,
+    "observed_SCP_r2": 0.5489500961704908,
+    "observed_incremental_r2": 0.006275191615207842,
+    "null_mean_incremental_r2": 0.0010363309329269933,
+    "null_sd_incremental_r2": 0.0019035242953043376,
+    "null_2p5_percentile": -0.0027333436416247356,
+    "null_50_percentile": 0.0009603809824746956,
+    "null_97p5_percentile": 0.0046954953138676585,
+    "null_min": -0.005323646791091319,
+    "null_max": 0.007748274171265335,
+    "null_greater_or_equal_observed": 4,
+    "empirical_upper_tail_p_plus_one": 0.004995004995004995,
+    "monte_carlo_p_floor": 0.000999000999000999,
+    "interpretation_boundary": "reference randomization of priority information, not causal effect or SHAP significance"
+  },
+  "historical_method_note": "Randomization design recovered from prior verified research record. Exact old private B100 pseudorandom seed conventions were not independently audited in this environment; all B1000 seed streams here are disclosed explicitly."
+}

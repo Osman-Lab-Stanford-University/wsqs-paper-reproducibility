@@ -1,0 +1,330 @@
+{
+  "status": "PASS",
+  "purpose": "AUTHOR-TO-EDITOR verified aggregate numerical handoff; not public respondent data",
+  "source_cohort_sha256": "c72b8480d3cff223d1d4cf0ebcc29a3dd80204d563cd63a4295f6739f0ed77a1",
+  "stage12_zip_sha256": "2c9ef89f3befb4113470adc310cd7b9131b30dbd47252be1383501e95984608b",
+  "stage13_audit_sha256": "e650036ab764fdf6e0ae2977e7a3af3c3ba416dd5825a8f299c2cd17eaae72d1",
+  "stage12_numeric_sources": 47,
+  "stage13_plot_sources": 8,
+  "aggregate_source_count": 55,
+  "historical_figure_artwork_included": false,
+  "private_household_rows_included": false,
+  "members": [
+    {
+      "name": "HANDOFF_README.txt",
+      "sha256": "4a8f4f59c08acb483d80886ae9a861c4d6e5c9c06c22e01445570f131c41230c",
+      "bytes": 844
+    },
+    {
+      "name": "figure_sources/STAGE13_PLOT_SOURCE_GAPS_N6039/01_F2_priority_rating_heterogeneity.json",
+      "sha256": "d0ecd64aa20d05fc3ff74c29ab490f93169438b39bea86a7fcea020396e7e83f",
+      "bytes": 283
+    },
+    {
+      "name": "figure_sources/STAGE13_PLOT_SOURCE_GAPS_N6039/02_F2d_individual_minus_equal_histogram.csv",
+      "sha256": "6a7c02c8db8abfdb7b318713dd63223ee706da972de6aad7f6ec9a0605e9b7a1",
+      "bytes": 1123
+    },
+    {
+      "name": "figure_sources/STAGE13_PLOT_SOURCE_GAPS_N6039/03_F3a_domain_pearson_correlations.csv",
+      "sha256": "9004d60b892eb2951544b761d0cb37d47cb65c2154c0b0e22d110b4ba898adaf",
+      "bytes": 2972
+    },
+    {
+      "name": "figure_sources/STAGE13_PLOT_SOURCE_GAPS_N6039/04_F3b_equal_WSQS_quintile_domain_profiles.csv",
+      "sha256": "d4e358f138b42587539b1ad360220eb3629f9273fe8bf6795c42e294ae49db01",
+      "bytes": 2502
+    },
+    {
+      "name": "figure_sources/STAGE13_PLOT_SOURCE_GAPS_N6039/05_F3c_weighting_ecdf_grid.csv",
+      "sha256": "68624531c36d6138ee30b8f54b02e3cd6000668564a0f55af13c67f409d79b9e",
+      "bytes": 50218
+    },
+    {
+      "name": "figure_sources/STAGE13_PLOT_SOURCE_GAPS_N6039/06_F4a_provision_mean_bootstrap_B750.csv",
+      "sha256": "77fb27f8ce99864926fca26ac0d9a3dd1979f0c4bf553c690390a364221e889d",
+      "bytes": 1011
+    },
+    {
+      "name": "figure_sources/STAGE13_PLOT_SOURCE_GAPS_N6039/07_TABLE03_p95_absolute_shift_and_correlations.csv",
+      "sha256": "4e58e2bde5adeea54fa8d048afc9abbf73726a3633fee04d3aea1bba1e087c16",
+      "bytes": 321
+    },
+    {
+      "name": "figure_sources/STAGE13_PLOT_SOURCE_GAPS_N6039/08_TABLE05_net_absolute_block_SHAP.csv",
+      "sha256": "c2a40e2e47e52f2f7dccef28d99ae4b573197fc20b40038618f1ec733e7dd7fb",
+      "bytes": 228
+    },
+    {
+      "name": "handoff_manifest.json",
+      "sha256": "41ba4c4c12ceee37441817f4ecda40fc6b734dbacbf17fd0284b7fecf7422954",
+      "bytes": 12634
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/inference/STAGE07_PRIORITY_NULL_B1000_N6039/01_priority_null_B1000_repetitions.csv",
+      "sha256": "be9bd3e3c06580e591a308ce113c287abf7f0ccfe1fe3fa48fab9e6eb855901e",
+      "bytes": 124216
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/inference/STAGE07_PRIORITY_NULL_B1000_N6039/02_priority_null_B1000_summary.csv",
+      "sha256": "362daae626693f504cdfb3b8150b43610fa4d90ae1e8bb519fb031d5a411e94a",
+      "bytes": 679
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/inference/STAGE07_PRIORITY_NULL_B1000_N6039/03_priority_null_B1000_method.json",
+      "sha256": "d719814dbe788a150198db908164456fe75c6ac75995032ddbfea10bd660c9c0",
+      "bytes": 2897
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/inference/STAGE08_SHAP_ATTRIBUTION_N6039/01_grouped_shap_with_bootstrap_ci.csv",
+      "sha256": "de7589554027a5112d35cf2756be62a0405a9289288b556aa2928dfb64e84ba0",
+      "bytes": 757
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/inference/STAGE08_SHAP_ATTRIBUTION_N6039/02_all_33_predictors_shap_with_bootstrap_ci.csv",
+      "sha256": "db369d1219057dbd120864e06a2afc9e546607844b73de79587aa3fc818ae8aa",
+      "bytes": 5033
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/inference/STAGE08_SHAP_ATTRIBUTION_N6039/03_top15_shap_predictors.csv",
+      "sha256": "1cac4ffd657d42beb4526348b2e7bc7963d10e46d8842005d71b6a2f3dbc5ecc",
+      "bytes": 2304
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/inference/STAGE08_SHAP_ATTRIBUTION_N6039/04_bootstrap_group_distribution_B1000.csv",
+      "sha256": "3400bb032080d5067b4cd988df140f867110cfab7b97e6fe05b95443d2781522",
+      "bytes": 119281
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/inference/STAGE08_SHAP_ATTRIBUTION_N6039/05_shap_additivity_and_sources.json",
+      "sha256": "0d7cd96b37eac4c7d88d77f74fcc0c4815d7b41b8dc9f447971eaf55d411a93e",
+      "bytes": 830
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/inference/STAGE09_SERVICE_RESPONSE_B200_N6039/01_S28_response_profiles_with_B200_intervals.csv",
+      "sha256": "40cfd2f82952613775c9d556f642378a9d23f20e3d418f0373b3cf7b226bf610",
+      "bytes": 2103
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/inference/STAGE09_SERVICE_RESPONSE_B200_N6039/02_MAIN_TABLE07_priority_response_contrasts.csv",
+      "sha256": "a4d7bb1c595c804eea6675c18a9a2c394e4c4437ae27926cf4347aed174018a7",
+      "bytes": 1541
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/inference/STAGE09_SERVICE_RESPONSE_B200_N6039/03_S29_adjacent_severity_changes_with_B200_frequency.csv",
+      "sha256": "e35d8cbb1a8a3d8e16dce5a9779b729b9b5a90acf146df3df181f90d55929531",
+      "bytes": 2161
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/inference/STAGE09_SERVICE_RESPONSE_B200_N6039/04_S7_priority_modification_low_high_B200.csv",
+      "sha256": "710901ddcfcb9b1861a24a91004d78bb4af2fe990391df3ff17b5e925cabd16b",
+      "bytes": 1266
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/inference/STAGE09_SERVICE_RESPONSE_B200_N6039/05_two_frozen_only_pairs_no_B200.csv",
+      "sha256": "cee4a93ed2623123b256bb987dc9626305f3cd313a1eba909fc831cfec587f84",
+      "bytes": 515
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/inference/STAGE09_SERVICE_RESPONSE_B200_N6039/06_service_response_eligibility_and_quartiles.csv",
+      "sha256": "38b47d3d640c0a91483ea376211f0d3d1f7e47a0156e504605af934959970d30",
+      "bytes": 449
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/inference/STAGE09_SERVICE_RESPONSE_B200_N6039/08_service_response_analysis_manifest.json",
+      "sha256": "55be5bb06d97c1253deba4a6f77cec4d88cd5d30f266b59582cae89ee269a3af",
+      "bytes": 2642
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE05_SENSITIVITY_SATISFACTION_N6039/02_WSQS_weighting_and_domain_exclusion_agreement.csv",
+      "sha256": "3b8868487ee6de2ebccba5648177a6982727355d043007ce49c272a714901bc7",
+      "bytes": 838
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE05_SENSITIVITY_SATISFACTION_N6039/03_Q6_1_satisfaction_vs_WSQS_and_CORE7.csv",
+      "sha256": "c059e21a175a145ca8445cec09f5c1d34470b8170e8ab1e2c7da1c8d37de467c",
+      "bytes": 399
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE05_SENSITIVITY_SATISFACTION_N6039/04_Q6_1_fixed_satisfaction_CORE7A_distribution.csv",
+      "sha256": "c679258e0c784b002c04ab0aa3d7f9f06360c8580028c1c4656d49ed24c2b678",
+      "bytes": 731
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE05_SENSITIVITY_SATISFACTION_N6039/05_Q6_1_fixed_satisfaction_domain_profiles.csv",
+      "sha256": "c0fd403a45cd61776623972c4547a65975b30d77784578af94f30f133c9f796f",
+      "bytes": 2084
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE05_SENSITIVITY_SATISFACTION_N6039/06_population_priority_weights_and_fallback.json",
+      "sha256": "ca68342ed468e26974d0636f4eb8dcc49b48aa373432e9b349032da391f58ecf",
+      "bytes": 599
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE10_MEASUREMENT_PROVIDER_N6039/01_core8_measurement_summary.json",
+      "sha256": "59001f86a9b08cffe6be0750e63e47a0887cc45448781cf479a37896e26b7cb0",
+      "bytes": 501
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE10_MEASUREMENT_PROVIDER_N6039/02_domain_level_summary.csv",
+      "sha256": "99ca5bad37014fac74e472eda0dcaad2bb89732fe37e4fd9908e9be78112ba68",
+      "bytes": 864
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE10_MEASUREMENT_PROVIDER_N6039/03_core8_question_response_frequencies.csv",
+      "sha256": "82bee35f09c3ff3c6d654eef59d4ce1271e551312cabed38ef7b5384d443222e",
+      "bytes": 3979
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE10_MEASUREMENT_PROVIDER_N6039/04_priority_domains_and_weights.csv",
+      "sha256": "e6434090bf3b8776b8eae75d88696b9ec39f99f4b676e9243ad849e04bd481fa",
+      "bytes": 861
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE10_MEASUREMENT_PROVIDER_N6039/05_stated_priority_response_frequencies.csv",
+      "sha256": "cf08fed59596a4fb1facf7478af7fd57aecddc2b5a7a609fc58ef59aa988d36a",
+      "bytes": 3382
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE10_MEASUREMENT_PROVIDER_N6039/06_weighting_and_core7_agreement.csv",
+      "sha256": "553afe3ea16ff0f13f919553488eea0bb5b538be80744c30fe8d4f6a79b487aa",
+      "bytes": 709
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE10_MEASUREMENT_PROVIDER_N6039/07_core8_alpha_and_bootstrap.json",
+      "sha256": "2e4f3740ca3e8d580ffb4a1f3b699530fd270d9820678bceb82746cedb54eb93",
+      "bytes": 616
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE10_MEASUREMENT_PROVIDER_N6039/08_factor_structure_summary.json",
+      "sha256": "a75c796b4c0d7a1124238b8c230f1bc5fd73bd38d135363f9b4154f6d0c669f5",
+      "bytes": 4091
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE10_MEASUREMENT_PROVIDER_N6039/09_factor_loadings_30_items.csv",
+      "sha256": "d45c2e66e9fcf5f6ab4857a011aec36fb58dfec19f2ee28444b223d063fc56d3",
+      "bytes": 5857
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE10_MEASUREMENT_PROVIDER_N6039/10_factor_parallel_analysis_eigenvalues.csv",
+      "sha256": "d8bf125438b1ce38cf8053d94a4059ef5ea7f876df707e8c8f945d2b5b901239",
+      "bytes": 1481
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE10_MEASUREMENT_PROVIDER_N6039/11_factor_spearman_high_similarity_pairs.csv",
+      "sha256": "1455e3e414cd670a1058ba086263f845143bf0d7e4ecb65163075693055e84a6",
+      "bytes": 55
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE10_MEASUREMENT_PROVIDER_N6039/12_provider_evidence_summary.json",
+      "sha256": "7cfd2eb70bfe63b2c70e59c039b1d4ddb5c2a8e20de8a466dd5e182cedfcd067",
+      "bytes": 1130
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE10_MEASUREMENT_PROVIDER_N6039/13_provider_Q9_and_fitted_item_response_status.csv",
+      "sha256": "15d4f8016e1e1e97da67564eed8add5cf132f85e67f1170cc7240159d64be43e",
+      "bytes": 16599
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE10_MEASUREMENT_PROVIDER_N6039/14_provider_by_primary_domestic_source.csv",
+      "sha256": "d0e846cc6c37f79d930ee5b8cf96100f3634454b66527dc833aae2909e41fea7",
+      "bytes": 698
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE10_MEASUREMENT_PROVIDER_N6039/15_service_support_22_original_response_frequencies.csv",
+      "sha256": "3f471dc43a51ac070272a4dcef0ed1fea247c8a4503d320a815a5a23100261e3",
+      "bytes": 10157
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/measurement/STAGE10_MEASUREMENT_PROVIDER_N6039/17_primary_provision_domain_profiles.csv",
+      "sha256": "595f30394713992e8b43debed0b5b1e4121f6bc0b0b35463a1fedb0777d61c3e",
+      "bytes": 2003
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/modeling/STAGE04_PRIMARY_CROSSDOMAIN_N6039/01_primary_block_heldout_metrics.csv",
+      "sha256": "b060c4edce70457a3152728a588d9d96bf9a4ef9650199f3583aa733439ca545",
+      "bytes": 1134
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/modeling/STAGE04_PRIMARY_CROSSDOMAIN_N6039/02_three_block_shapley_r2.csv",
+      "sha256": "2ab2f320e6e8f906f798535fe5a1633518888ece52b8c6cbb00e00b2c78dca96",
+      "bytes": 239
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/modeling/STAGE04_PRIMARY_CROSSDOMAIN_N6039/03_cross_domain_full_vs_CP_heldout.csv",
+      "sha256": "c430d2f149f5c7a029f8e42f940591d8f638fc9eadfdebb674dd8aafa34ac85b",
+      "bytes": 2032
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/modeling/STAGE05_SENSITIVITY_SATISFACTION_N6039/01_original_eight_sensitivity_model_metrics.csv",
+      "sha256": "a00c1a47dcc260194948957fde7370753ad3e14ea619a1a3e19e4c7c6ac6ace3",
+      "bytes": 1139
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/modeling/STAGE06_REPEATED_SPLITS_BENCHMARK_N6039/01_ten_split_all_block_metrics.csv",
+      "sha256": "532770504f763a3c27d733f30e57e585625e1dc5bb4640d5a89d71df54c2ff53",
+      "bytes": 10875
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/modeling/STAGE06_REPEATED_SPLITS_BENCHMARK_N6039/02_ten_split_block_summary.csv",
+      "sha256": "438b180d2aaa42746768b3130cba656abed263c8bfff3f87e1d9df5999d285fc",
+      "bytes": 1081
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/modeling/STAGE06_REPEATED_SPLITS_BENCHMARK_N6039/03_ten_split_learner_benchmark_metrics.csv",
+      "sha256": "25a9c6966642edaac6d7123b164ef4558f38f2e816e79317f1ebeffe62a3eb72",
+      "bytes": 8834
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/modeling/STAGE06_REPEATED_SPLITS_BENCHMARK_N6039/04_ten_split_learner_benchmark_summary.csv",
+      "sha256": "fcfb48a42bfa0d52c22f58db6a19ad6d01feee211e75ab970673fcebcd57ccd7",
+      "bytes": 1195
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/modeling/STAGE06_REPEATED_SPLITS_BENCHMARK_N6039/05_matched_split_incremental_priority_and_context.csv",
+      "sha256": "4075581c20d7299b04d6d9c3089382884ac84352c4e1a5e9acf160ad9dd3fc35",
+      "bytes": 2057
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/modeling/STAGE06_REPEATED_SPLITS_BENCHMARK_N6039/06_paired_rmse_r2_summary.csv",
+      "sha256": "05eba72b04d147633e8dea40e55a82de481fad2581d6a7dba8e5bc31f49c602b",
+      "bytes": 621
+    },
+    {
+      "name": "numeric_sources/04_numerical_results/modeling/STAGE06_REPEATED_SPLITS_BENCHMARK_N6039/07_matched_partition_manifest_no_ids.csv",
+      "sha256": "b7fca6a34c5b548c84f58dda65dd9db4d37172f04f72620a348d7f84c88e3ba0",
+      "bytes": 1034
+    },
+    {
+      "name": "source_code/WSQS_STAGE13_PLOT_SOURCE_GAPS_N6039.py",
+      "sha256": "8e53985c7f82caac93b40e05f4a679f88c401282b480a0e42c7df05c69d9951c",
+      "bytes": 11664
+    },
+    {
+      "name": "stage11/01_verified_source_file_ledger.csv",
+      "sha256": "8aba841f7113c88baee239e6bf8235d1fe61d5f65337e180fbd6f9bd27a2afa0",
+      "bytes": 9432
+    },
+    {
+      "name": "stage11/02_exhibit_56_dependency_register.csv",
+      "sha256": "123ec0783627d14ab9cb9e94bcb72d8b03f45375d932d0184cfa95039f46f59b",
+      "bytes": 4222
+    },
+    {
+      "name": "stage11/03_numerical_audit_summary.json",
+      "sha256": "2e8ad88d364788cb9fa66a2a57946a80eca7ffafb0c19335aa534f0686e932be",
+      "bytes": 1873
+    },
+    {
+      "name": "stage11/04_handoff_and_pending_exhibits.md",
+      "sha256": "c70a62b0fdf524dea409cf5249074313aafb61b54f2efb9c49036373c2af92e0",
+      "bytes": 2562
+    },
+    {
+      "name": "stage13/STAGE13_PLOT_SOURCE_GAPS_N6039_COMPLETE.json",
+      "sha256": "e650036ab764fdf6e0ae2977e7a3af3c3ba416dd5825a8f299c2cd17eaae72d1",
+      "bytes": 2333
+    }
+  ],
+  "caution": "Original figure SVGs, household scatter coordinates, descriptive sidecar, and model files are not in this archive."
+}

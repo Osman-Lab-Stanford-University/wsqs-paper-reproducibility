@@ -1,0 +1,109 @@
+scope,source,source_column,response,n,fraction
+all_households,Affordability Q2.3,Q2_3_cost_raw_severity,5.0,128,0.021195562179168737
+all_households,Affordability Q2.3,Q2_3_cost_raw_severity,1.0,1798,0.29773141248551083
+all_households,Affordability Q2.3,Q2_3_cost_raw_severity,3.0,560,0.092730584533863222
+all_households,Affordability Q2.3,Q2_3_cost_raw_severity,2.0,1044,0.17287630402384502
+all_households,Affordability Q2.3,Q2_3_cost_raw_severity,<MISSING>,2262,0.37456532538499754
+all_households,Affordability Q2.3,Q2_3_cost_raw_severity,4.0,247,0.040900811392614672
+all_households,Affordability Q2.5,Q2_5_value_for_money_raw_severity,3,2136,0.35370094386487827
+all_households,Affordability Q2.5,Q2_5_value_for_money_raw_severity,2,2352,0.38946845504222555
+all_households,Affordability Q2.5,Q2_5_value_for_money_raw_severity,1,1039,0.17204835237622124
+all_households,Affordability Q2.5,Q2_5_value_for_money_raw_severity,5,168,0.027819175360158967
+all_households,Affordability Q2.5,Q2_5_value_for_money_raw_severity,4,344,0.056963073356515979
+all_households,Affordability Q2.8,Q2_8_afford_disruption_category,"yes, only seasonally",1517,0.2512005298890545
+all_households,Affordability Q2.8,Q2_8_afford_disruption_category,"yes, often",704,0.11657559198542805
+all_households,Affordability Q2.8,Q2_8_afford_disruption_category,"yes, sometimes",2109,0.34923000496770989
+all_households,Affordability Q2.8,Q2_8_afford_disruption_category,no,1205,0.19953634707733067
+all_households,Affordability Q2.8,Q2_8_afford_disruption_category,our household has not faced any disruptions that i am aware of,504,0.083457526080476907
+all_households,Access Q3.2,Q3_2_travel_time_raw_severity,5,525,0.086934923000496767
+all_households,Access Q3.2,Q3_2_travel_time_raw_severity,3,660,0.10928961748633879
+all_households,Access Q3.2,Q3_2_travel_time_raw_severity,2,1721,0.28498095711210464
+all_households,Access Q3.2,Q3_2_travel_time_raw_severity,1,2782,0.46067229673787052
+all_households,Access Q3.2,Q3_2_travel_time_raw_severity,4,351,0.058122205663189271
+all_households,Access Q3.3,Q3_3_waiting_time_raw_severity,2,1993,0.33002152674283824
+all_households,Access Q3.3,Q3_3_waiting_time_raw_severity,3,1419,0.23497267759562843
+all_households,Access Q3.3,Q3_3_waiting_time_raw_severity,1,1476,0.24441132637853949
+all_households,Access Q3.3,Q3_3_waiting_time_raw_severity,4,678,0.1122702434177844
+all_households,Access Q3.3,Q3_3_waiting_time_raw_severity,5,473,0.078324225865209471
+all_households,Access Q3.5,Q3_5_municipal_availability_raw_severity,3.0,1091,0.18065904951150852
+all_households,Access Q3.5,Q3_5_municipal_availability_raw_severity,1.0,1494,0.24739195230998509
+all_households,Access Q3.5,Q3_5_municipal_availability_raw_severity,2.0,2761,0.45719489981785066
+all_households,Access Q3.5,Q3_5_municipal_availability_raw_severity,<MISSING>,693,0.11475409836065574
+all_households,Access Q3.6,Q3_6_supply_schedule_raw_severity,2,1924,0.3185957940056301
+all_households,Access Q3.6,Q3_6_supply_schedule_raw_severity,4,1132,0.1874482530220235
+all_households,Access Q3.6,Q3_6_supply_schedule_raw_severity,3,1381,0.2286802450736877
+all_households,Access Q3.6,Q3_6_supply_schedule_raw_severity,1,1035,0.17138599105812222
+all_households,Access Q3.6,Q3_6_supply_schedule_raw_severity,5,567,0.093889716840536513
+all_households,Reliability Q4.2,Q4_2_pressure_raw_severity,3,1354,0.2242093061765193
+all_households,Reliability Q4.2,Q4_2_pressure_raw_severity,2,2257,0.37373737373737376
+all_households,Reliability Q4.2,Q4_2_pressure_raw_severity,1,1636,0.27090577910250041
+all_households,Reliability Q4.2,Q4_2_pressure_raw_severity,4,543,0.089915548931942368
+all_households,Reliability Q4.2,Q4_2_pressure_raw_severity,5,249,0.041231992051664182
+all_households,Reliability Q4.3,Q4_3_disruption_notice_raw_severity,5.0,745,0.12336479549594304
+all_households,Reliability Q4.3,Q4_3_disruption_notice_raw_severity,4.0,942,0.15598609041231992
+all_households,Reliability Q4.3,Q4_3_disruption_notice_raw_severity,<MISSING>,313,0.05182977314124855
+all_households,Reliability Q4.3,Q4_3_disruption_notice_raw_severity,2.0,1537,0.25451233647954957
+all_households,Reliability Q4.3,Q4_3_disruption_notice_raw_severity,3.0,1413,0.23397913561847988
+all_households,Reliability Q4.3,Q4_3_disruption_notice_raw_severity,1.0,1089,0.18032786885245902
+all_households,Reliability Q4.4,Q4_4_backup_raw_severity,1.0,1829,0.30286471270077825
+all_households,Reliability Q4.4,Q4_4_backup_raw_severity,2.0,2154,0.35668156979632387
+all_households,Reliability Q4.4,Q4_4_backup_raw_severity,3.0,1667,0.27603907931776783
+all_households,Reliability Q4.4,Q4_4_backup_raw_severity,<MISSING>,389,0.064414638185129991
+all_households,Efficiency Q5.2,Q5_2_service_variation_raw_severity,3,960,0.15896671634376552
+all_households,Efficiency Q5.2,Q5_2_service_variation_raw_severity,2,3404,0.5636694817022686
+all_households,Efficiency Q5.2,Q5_2_service_variation_raw_severity,1,1675,0.27736380195396587
+all_households,Efficiency Q5.3,Q5_3_maintenance_raw_severity,1.0,1861,0.30816360324557046
+all_households,Efficiency Q5.3,Q5_3_maintenance_raw_severity,3.0,974,0.16128498095711211
+all_households,Efficiency Q5.3,Q5_3_maintenance_raw_severity,2.0,2810,0.46530882596456369
+all_households,Efficiency Q5.3,Q5_3_maintenance_raw_severity,<MISSING>,394,0.065242589832753772
+all_households,Acceptability Q6.2,Q6_2_appearance_acceptability_raw_severity,4,427,0.070707070707070704
+all_households,Acceptability Q6.2,Q6_2_appearance_acceptability_raw_severity,2,2139,0.35419771485345258
+all_households,Acceptability Q6.2,Q6_2_appearance_acceptability_raw_severity,3,1822,0.301705580394105
+all_households,Acceptability Q6.2,Q6_2_appearance_acceptability_raw_severity,5,134,0.022189104156317273
+all_households,Acceptability Q6.2,Q6_2_appearance_acceptability_raw_severity,1,1517,0.2512005298890545
+all_households,Acceptability Q6.3,Q6_3_taste_acceptability_raw_severity,2,1927,0.31909256499420435
+all_households,Acceptability Q6.3,Q6_3_taste_acceptability_raw_severity,3,1887,0.3124689518132141
+all_households,Acceptability Q6.3,Q6_3_taste_acceptability_raw_severity,5,175,0.028978307666832258
+all_households,Acceptability Q6.3,Q6_3_taste_acceptability_raw_severity,4,490,0.081139261467130325
+all_households,Acceptability Q6.3,Q6_3_taste_acceptability_raw_severity,1,1560,0.25832091405861896
+all_households,Acceptability Q6.4,Q6_4_odor_acceptability_raw_severity,4,510,0.084451068057625436
+all_households,Acceptability Q6.4,Q6_4_odor_acceptability_raw_severity,2,1771,0.29326047358834245
+all_households,Acceptability Q6.4,Q6_4_odor_acceptability_raw_severity,1,1581,0.26179831097863887
+all_households,Acceptability Q6.4,Q6_4_odor_acceptability_raw_severity,3,1949,0.32273555224374895
+all_households,Acceptability Q6.4,Q6_4_odor_acceptability_raw_severity,5,228,0.037754595131644315
+all_households,Quality Q7.3,Q7_3_clarity_raw_severity,2,2372,0.39278026163272067
+all_households,Quality Q7.3,Q7_3_clarity_raw_severity,3,1657,0.27438317602252027
+all_households,Quality Q7.3,Q7_3_clarity_raw_severity,4,577,0.095545620135784076
+all_households,Quality Q7.3,Q7_3_clarity_raw_severity,1,1231,0.20384169564497434
+all_households,Quality Q7.3,Q7_3_clarity_raw_severity,5,202,0.033449246564000661
+all_households,Quality Q7.4,Q7_4_quality_change_raw_severity,2,3180,0.52657724788872329
+all_households,Quality Q7.4,Q7_4_quality_change_raw_severity,1,2159,0.35750952144394765
+all_households,Quality Q7.4,Q7_4_quality_change_raw_severity,3,700,0.11591323066732903
+all_households,Quantity Q8.2,Q8_2_volume_raw_severity,2.0,604,0.10001655903295248
+all_households,Quantity Q8.2,Q8_2_volume_raw_severity,4.0,1449,0.23994038748137109
+all_households,Quantity Q8.2,Q8_2_volume_raw_severity,5.0,1243,0.2058287795992714
+all_households,Quantity Q8.2,Q8_2_volume_raw_severity,3.0,923,0.15283987415134956
+all_households,Quantity Q8.2,Q8_2_volume_raw_severity,<MISSING>,1418,0.23480708726610366
+all_households,Quantity Q8.2,Q8_2_volume_raw_severity,1.0,402,0.066567312468951811
+all_households,Quantity Q8.3,Q8_3_shortage_raw_severity,5,234,0.038748137108792845
+all_households,Quantity Q8.3,Q8_3_shortage_raw_severity,3,1842,0.30501738698460013
+all_households,Quantity Q8.3,Q8_3_shortage_raw_severity,4,560,0.092730584533863222
+all_households,Quantity Q8.3,Q8_3_shortage_raw_severity,2,2093,0.34658055969531382
+all_households,Quantity Q8.3,Q8_3_shortage_raw_severity,1,1310,0.21692333167743003
+all_households,Quantity Q8.4,Q8_4_seasonal_quantity_raw_severity,2,3611,0.59794667991389305
+all_households,Quantity Q8.4,Q8_4_seasonal_quantity_raw_severity,3,941,0.15582050008279516
+all_households,Quantity Q8.4,Q8_4_seasonal_quantity_raw_severity,1,1487,0.24623282000331181
+all_households,Customer_service Q9.2,Q9_2_complaint_resolution_raw_severity,2,2132,0.35303858254677928
+all_households,Customer_service Q9.2,Q9_2_complaint_resolution_raw_severity,3,1624,0.26891869514820332
+all_households,Customer_service Q9.2,Q9_2_complaint_resolution_raw_severity,1,1280,0.21195562179168737
+all_households,Customer_service Q9.2,Q9_2_complaint_resolution_raw_severity,4,641,0.10614340122536844
+all_households,Customer_service Q9.2,Q9_2_complaint_resolution_raw_severity,5,362,0.059943699287961581
+all_households,Customer_service Q9.4,Q9_4_service_repair_delays_raw_severity,1.0,2301,0.381023348236463
+all_households,Customer_service Q9.4,Q9_4_service_repair_delays_raw_severity,<MISSING>,1129,0.18695148203344925
+all_households,Customer_service Q9.4,Q9_4_service_repair_delays_raw_severity,2.0,2609,0.43202516973008775
+all_households,Q1.1 primary domestic provision,Q 1.1_raw_value,Water from Municipality/Corporation,2848,0.47160125848650442
+all_households,Q1.1 primary domestic provision,Q 1.1_raw_value,Groundwater,2630,0.43550256665010761
+all_households,Q1.1 primary domestic provision,Q 1.1_raw_value,"Buy water from stores (e.g., canned water)",64,0.010597781089584368
+all_households,Q1.1 primary domestic provision,Q 1.1_raw_value,Lake/Pond,322,0.053320086106971351
+all_households,Q1.1 primary domestic provision,Q 1.1_raw_value,Other sources,94,0.015565490975327041
+all_households,Q1.1 primary domestic provision,Q 1.1_raw_value,Buy water from trucks,81,0.013412816691505217

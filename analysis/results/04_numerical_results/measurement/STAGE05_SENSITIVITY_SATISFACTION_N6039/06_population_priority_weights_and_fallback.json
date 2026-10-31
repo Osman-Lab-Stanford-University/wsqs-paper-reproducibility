@@ -1,0 +1,17 @@
+{
+  "priority_weights_development_only": {
+    "Affordability": 0.11966428455176291,
+    "Access": 0.12430644946513382,
+    "Reliability": 0.123585156908873,
+    "Efficiency": 0.12415109414532381,
+    "Acceptability": 0.12651841330433367,
+    "Quality": 0.12675144628404872,
+    "Quantity": 0.1276095994791898,
+    "Customer_service": 0.1274135558613343
+  },
+  "development_n": 4831,
+  "fallback_households_for_individual_priority_weights": 18,
+  "mean_absolute_CORE8_vs_CORE7A": 2.5651716225486716,
+  "spearman_CORE8_vs_CORE7A": 0.9708457960723931,
+  "independent_satisfaction_validation": false
+}

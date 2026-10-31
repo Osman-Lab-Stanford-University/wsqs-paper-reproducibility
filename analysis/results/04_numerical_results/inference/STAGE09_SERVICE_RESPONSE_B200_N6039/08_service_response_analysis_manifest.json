@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "signature": "9e162736c6d0f83a933df6d5d416f000d7bc57c1a8b149ffb3437cae8efdef42",
+  "signature_inputs": {
+    "source_sha256": "c72b8480d3cff223d1d4cf0ebcc29a3dd80204d563cd63a4295f6739f0ed77a1",
+    "original_stage04_signature": "b473b1fc643379cf468466d17a3154bd7349f0be0e4834ce852b07c5e855a647",
+    "stage08_signature": "e501826d2116a5eab3892407e1e398d6134adae60772610d7ff1db287e989bd2",
+    "model_sha256": "7996465d0326f592e958d20bb16c4c9006d80deb333f443b97c3dc7b7e9d0f87",
+    "model_manifest_sha256": "d2df0e4a858dbb9b2d172fa60c06698f4d35a6f8199841910bc392d38054e9e3",
+    "script_sha256": "df50ed765c37b4e3cff767a9ed06b1ce6bd3d910a9a0823f72251fb8f687f7ad",
+    "scientific_code_sha256": {
+      "02_code_private/reconciled/WSQS_Study_Repro_N6039/config/models.json": "0e57f08d38bdf1fd1fb1b2c3cea7d6dc0f4bb17313de0527b7cda3e5bd324492",
+      "02_code_private/reconciled/WSQS_Study_Repro_N6039/config/scientific_plans.json": "fea884adec86625ccfe8a4597f9f68e73854f7758484f2a794f74f436eab3b8c",
+      "02_code_private/reconciled/WSQS_Study_Repro_N6039/config/feature_spec.json": "142f9dff2e3d8dd34260778f0b0a23eddeb1d04b0737ddf532cc4a666c976530",
+      "02_code_private/reconciled/WSQS_Study_Repro_N6039/src/wsqs/features.py": "d1f34755e5707b264f34e7c456afc666bebec027a98bec75d0238c4a7e240c61",
+      "02_code_private/reconciled/WSQS_Study_Repro_N6039/src/wsqs/models.py": "3f0bb2d48dcfadb1cad46f9303819836db85ed51a73954d0960e2b93e22cc82d",
+      "02_code_private/reconciled/WSQS_Study_Repro_N6039/src/wsqs/extended.py": "fc7b11e3f951171888b527d7ba271492a0ca017ef520c689cf404058ee5d1429"
+    },
+    "B": 200,
+    "bootstrap_seed": 20260714,
+    "sample_rng": "numpy.random.default_rng(np.random.SeedSequence([20260714, replicate]))",
+    "refit_sample": "n4831 development observations resampled with replacement",
+    "model_iterations": "Stage04 validated fixed tree count"
+  },
+  "source_n": 6039,
+  "heldout_n": 1208,
+  "development_n": 4831,
+  "B": 200,
+  "fixed_model_trees": 500,
+  "pressure_eligible_heldout_n": 943,
+  "full_model_reused": true,
+  "extra_frozen_only_pairs": 2,
+  "refit_uncertainty_scope": "development-bootstrap model-refitting conditional on fixed heldout population and selected tree count",
+  "rng_scope": "explicit newly declared per-repetition RNG streams; not claimed bitwise historical",
+  "interpretation": "observational model-prediction contrasts, not interventions or causal effects",
+  "contains_private_refit_indices_and_CBMs": true,
+  "profiles": {
+    "Complaint resolution": 1208,
+    "Value for money": 1208,
+    "Water pressure": 943,
+    "Shortage frequency": 1208
+  }
+}
