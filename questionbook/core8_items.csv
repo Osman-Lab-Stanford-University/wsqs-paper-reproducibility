@@ -1,0 +1,9 @@
+domain,question_id,minimum_severity,maximum_severity
+Affordability,Q2.2,1,5
+Access,Q3.1,1,5
+Reliability,Q4.1,1,5
+Efficiency,Q5.1,1,5
+Acceptability,Q6.1,1,5
+Quality,Q7.1,1,5
+Quantity,Q8.1,1,5
+Customer service,Q9.1,1,5

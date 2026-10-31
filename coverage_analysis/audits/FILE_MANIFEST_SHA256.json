@@ -1,0 +1,122 @@
+[
+  {
+    "path": "coverage_analysis/EXPECTED_AGGREGATES_N6039.json",
+    "bytes": 1893,
+    "sha256": "3fd0a9d689b312d4114f91abb61b40362139dcd2659dbcf60ff873d5dbb4d303"
+  },
+  {
+    "path": "coverage_analysis/README.md",
+    "bytes": 5080,
+    "sha256": "dae510932eaef5da9a42a1eaa15293372d37bc8a8774ebdbf1b09927f5e70cb3"
+  },
+  {
+    "path": "coverage_analysis/audits/NUMERICAL_ASSERTIONS.json",
+    "bytes": 791,
+    "sha256": "8d4a252c6638f346f8c951e2c2c57fe5c6e7158747f306368c5241796bb90d76"
+  },
+  {
+    "path": "coverage_analysis/requirements.txt",
+    "bytes": 17,
+    "sha256": "9bba605fd7b6ea23038de15e5a1ae6714b3d3fb14ed2d6e6bedbfb0665ca2122"
+  },
+  {
+    "path": "coverage_analysis/results/Table_S30_coverage_methods.csv",
+    "bytes": 2213,
+    "sha256": "873ea65c21a3916dfe13846350d5078a0b1a170446782c5d5317ce9bf9ba328f"
+  },
+  {
+    "path": "coverage_analysis/results/Table_S31_geographic_diagnostics.csv",
+    "bytes": 2854,
+    "sha256": "e1947d4cb9218c370f48c2dd7491bb8aff8837562ff673f6dbd14bae0e647fed"
+  },
+  {
+    "path": "coverage_analysis/results/Table_S32_state_coverage_2024.csv",
+    "bytes": 676,
+    "sha256": "52f6532e9bc9a680fbd0212acf8d660715f8008e917c9222efcd2c7d45c158b4"
+  },
+  {
+    "path": "coverage_analysis/results/Tamil_Nadu_district_counts.csv",
+    "bytes": 924,
+    "sha256": "d542ae47a969b9b3749848cda6da0c6c72279defe399686645f0cd0b793b7758"
+  },
+  {
+    "path": "coverage_analysis/results/car_ownership_distribution.csv",
+    "bytes": 140,
+    "sha256": "20933eb5b84f0a1fc1ed9308dea1d6f497a16f6dfc51339a2e6eb0d46d640b3f"
+  },
+  {
+    "path": "coverage_analysis/results/domestic_provision_distribution.csv",
+    "bytes": 183,
+    "sha256": "368a7a03f2e044ba9a398c366556873cffdba55399fb3670cfa17de3d0cf7c1e"
+  },
+  {
+    "path": "coverage_analysis/results/household_size_distribution.csv",
+    "bytes": 219,
+    "sha256": "34c45774e1fda771cae23e5eaafd0fdd09137172fc0f3e85a4fbd3fcee2e2cdb"
+  },
+  {
+    "path": "coverage_analysis/results/household_size_vs_Census_2011.csv",
+    "bytes": 504,
+    "sha256": "f34c0b80fe392c59550616af5be2b092da9cb1aa7435ae0346b10c39e4b4eab1"
+  },
+  {
+    "path": "coverage_analysis/results/housing_tenure_distribution.csv",
+    "bytes": 155,
+    "sha256": "b26ba50c56bffdc1791c2d55aeacda738a1778d38bb859f1e1b6119906979a5e"
+  },
+  {
+    "path": "coverage_analysis/results/outside_TN_state_directory_matches_2024.csv",
+    "bytes": 315,
+    "sha256": "d1b232a492b02ceb511b9cc6a1ec72d1926444d2904a9a93919b5b6fc2a78853"
+  },
+  {
+    "path": "coverage_analysis/results/settlement_context_household_and_PIN_counts.csv",
+    "bytes": 280,
+    "sha256": "b9a8d27a8a283d82a821e2a562530803a1a2093873fe5a225996bf3216cd6be0"
+  },
+  {
+    "path": "coverage_analysis/results/state_directory_matches_2024.csv",
+    "bytes": 432,
+    "sha256": "30aa391a29092bcf1d5c0d8801d6b66b2885a640bad37994106282ae66146b30"
+  },
+  {
+    "path": "coverage_analysis/results/state_prefix_sensitivity_2024.csv",
+    "bytes": 536,
+    "sha256": "75964171b8d9b38ba492e3a0645909599fb8aeda6fd26a7e55f9db6d5b4ac009"
+  },
+  {
+    "path": "coverage_analysis/source_code/01_household_composition_N6039.py",
+    "bytes": 11664,
+    "sha256": "34ddb4a82b7a0abcf865899716201e521c067a5143959302660758c2721a5b64"
+  },
+  {
+    "path": "coverage_analysis/source_code/02_PIN_to_state_N6039.py",
+    "bytes": 13349,
+    "sha256": "b9b48b2211a68b6e0de13cd27ccf7844a9ab759a951a1734c7beb8afc103ae98"
+  },
+  {
+    "path": "coverage_analysis/source_code/03_state_prefix_sensitivity_N6039.py",
+    "bytes": 7567,
+    "sha256": "e099ef244c0b4559114dba37d615dcfce527143745645a06139943736c7e92c5"
+  },
+  {
+    "path": "coverage_analysis/source_code/04_geographic_aggregates_N6039.py",
+    "bytes": 4853,
+    "sha256": "6d3ff8c4b3852a43e42ba3e5c93eb077c2cc8d8c7eddf2a6fa33d4bf73911a7c"
+  },
+  {
+    "path": "coverage_analysis/source_code/05_GHS_SMOD_Table_S31_N6039.py",
+    "bytes": 11804,
+    "sha256": "5d212f9e911d83d2a012d0eca4c81dcf4137dd836d2fc4b0e1a4cf11610ce907"
+  },
+  {
+    "path": "coverage_analysis/source_code/06_Census_household_size_overlap_N6039.py",
+    "bytes": 3489,
+    "sha256": "2cee56e0f18e008ecdbbbea7dbad4827717317c09c3a60cb553444a9619e9a53"
+  },
+  {
+    "path": "coverage_analysis/source_code/README.md",
+    "bytes": 843,
+    "sha256": "44f5cebba18a53c9c7739b8e05eb568e2e281caec984a2a09684fa2c926f6448"
+  }
+]

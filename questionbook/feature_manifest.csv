@@ -1,0 +1,34 @@
+feature,block,domain,question_id,source_column,type,native_levels
+service_Q2_3,Service-support,Affordability,Q2.3,Q2_3_cost_raw_severity,numeric,1–5
+service_Q2_5,Service-support,Affordability,Q2.5,Q2_5_value_for_money_raw_severity,numeric,1–5
+service_Q2_8,Service-support,Affordability,Q2.8,Q2_8_afford_disruption_category,categorical,Original response categories
+service_Q3_2,Service-support,Access,Q3.2,Q3_2_travel_time_raw_severity,numeric,1–5
+service_Q3_3,Service-support,Access,Q3.3,Q3_3_waiting_time_raw_severity,numeric,1–5
+service_Q3_5,Service-support,Access,Q3.5,Q3_5_municipal_availability_raw_severity,categorical,1–3
+service_Q3_6,Service-support,Access,Q3.6,Q3_6_supply_schedule_raw_severity,categorical,1–5
+service_Q4_2,Service-support,Reliability,Q4.2,Q4_2_pressure_raw_severity,categorical,1–5
+service_Q4_3,Service-support,Reliability,Q4.3,Q4_3_disruption_notice_raw_severity,categorical,1–5
+service_Q4_4,Service-support,Reliability,Q4.4,Q4_4_backup_raw_severity,numeric,1–3
+service_Q5_2,Service-support,Efficiency,Q5.2,Q5_2_service_variation_raw_severity,numeric,1–3
+service_Q5_3,Service-support,Efficiency,Q5.3,Q5_3_maintenance_raw_severity,numeric,1–3
+service_Q6_2,Service-support,Acceptability,Q6.2,Q6_2_appearance_acceptability_raw_severity,numeric,1–5
+service_Q6_3,Service-support,Acceptability,Q6.3,Q6_3_taste_acceptability_raw_severity,numeric,1–5
+service_Q6_4,Service-support,Acceptability,Q6.4,Q6_4_odor_acceptability_raw_severity,numeric,1–5
+service_Q7_3,Service-support,Quality,Q7.3,Q7_3_clarity_raw_severity,numeric,1–5
+service_Q7_4,Service-support,Quality,Q7.4,Q7_4_quality_change_raw_severity,numeric,1–3
+service_Q8_2,Service-support,Quantity,Q8.2,Q8_2_volume_raw_severity,categorical,1–5
+service_Q8_3,Service-support,Quantity,Q8.3,Q8_3_shortage_raw_severity,numeric,1–5
+service_Q8_4,Service-support,Quantity,Q8.4,Q8_4_seasonal_quantity_raw_severity,numeric,1–3
+service_Q9_2,Service-support,Customer_service,Q9.2,Q9_2_complaint_resolution_raw_severity,numeric,1–5
+service_Q9_4,Service-support,Customer_service,Q9.4,Q9_4_service_repair_delays_raw_severity,numeric,1–2
+context_primary_provision,Household context,,Q1.1,Q 1.1_raw_value,categorical,Survey categories
+context_household_size,Household context,,Q15.10,Q 15.10_raw_value,categorical,Survey categories
+context_dwelling,Household context,,Q15.14,Q 15.14_raw_value,categorical,Survey categories
+Affordability_priority_0_10,Stated priorities,Affordability,,Affordability_priority_0_10,numeric,0–10
+Access_priority_0_10,Stated priorities,Access,,Access_priority_0_10,numeric,0–10
+Reliability_priority_0_10,Stated priorities,Reliability,,Reliability_priority_0_10,numeric,0–10
+Efficiency_priority_0_10,Stated priorities,Efficiency,,Efficiency_priority_0_10,numeric,0–10
+Acceptability_priority_0_10,Stated priorities,Acceptability,,Acceptability_priority_0_10,numeric,0–10
+Quality_priority_0_10,Stated priorities,Quality,,Quality_priority_0_10,numeric,0–10
+Quantity_priority_0_10,Stated priorities,Quantity,,Quantity_priority_0_10,numeric,0–10
+Customer_service_priority_0_10,Stated priorities,Customer_service,,Customer_service_priority_0_10,numeric,0–10

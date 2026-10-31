@@ -1,0 +1,66 @@
+{
+  "cohort": {
+    "original_N": 6145,
+    "excluded_N": 106,
+    "analytical_N": 6039
+  },
+  "household_size": {
+    "valid_N": 6013,
+    "missing_N": 26,
+    "Census_2011_TN_distribution_overlap_percent": 78.5898
+  },
+  "tenure": {
+    "owned_outright": 2691,
+    "owned_mortgage": 1367,
+    "owned_total": 4058,
+    "rented": 1194,
+    "other": 787
+  },
+  "car": {
+    "one_or_more": 1464,
+    "explicit_none_Tamil": 1907,
+    "English_blank_under_historical_harmonization": 2668,
+    "operational_no_car": 4575
+  },
+  "water_Q1_1": {
+    "Municipality/Corporation": 2848,
+    "Groundwater": 2630,
+    "Lake/Pond": 322,
+    "Other": 94,
+    "Tanker/Truck": 81,
+    "Commercial/Canned": 64
+  },
+  "geographic": {
+    "PIN_format_valid_records": 5991,
+    "unique_valid_format_PINs": 817,
+    "Tamil_Nadu_matched_households": 5778,
+    "TN_PINs": 629,
+    "districts_represented": 37,
+    "district_not_represented": "Chengalpattu",
+    "detailed_SMOD_PINs": 628,
+    "exact_vs_3x3_mode_equal": 452,
+    "exact_vs_3x3_mode_percent": 71.97,
+    "settlement_households": {
+      "Suburban / peri-urban": 2115,
+      "Rural": 1699,
+      "Urban centre": 1492,
+      "Urban cluster": 470,
+      "Water / unresolved": 2
+    }
+  },
+  "state_2024": {
+    "directory_matched": 5869,
+    "state_only_prefix_extra": 88,
+    "combined": 5957,
+    "unresolved": 82,
+    "Tamil_Nadu_exact": 5800,
+    "Tamil_Nadu_prefix_only": 80,
+    "outside_TN_exact": 69,
+    "outside_TN_with_prefix": 77
+  },
+  "methodological_distinctions": [
+    "State-only prefix inference is not full six-digit PIN verification",
+    "The English blank car response is mapped to no car under the historical coverage-analysis rule; do not infer that source-level missingness was conclusively resolved",
+    "All geographically mapped household coordinates are postal reference points rather than household GPS coordinates"
+  ]
+}

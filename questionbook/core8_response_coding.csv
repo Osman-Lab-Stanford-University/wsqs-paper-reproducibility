@@ -1,0 +1,44 @@
+Domain,Question_ID,Original_response_label,Final_severity_1_best_5_worst,Final_domain_score_0_100,Response_classification
+Affordability,Q2.2,Somewhat affordable,2,75,Scored substantive response
+Affordability,Q2.2,Neutral,3,50,Scored substantive response
+Affordability,Q2.2,Very affordable,1,100,Scored substantive response
+Affordability,Q2.2,Very unaffordable,5,0,Scored substantive response
+Affordability,Q2.2,Somewhat unaffordable,4,25,Scored substantive response
+Access,Q3.1,Accessible most of the time,2,75,Scored substantive response
+Access,Q3.1,Very accessible,1,100,Scored substantive response
+Access,Q3.1,Occasionally accessible,3,50,Scored substantive response
+Access,Q3.1,Not accessible,5,0,Scored substantive response
+Access,Q3.1,Rarely accessible,4,25,Scored substantive response
+Reliability,Q4.1,Occasionally reliable,3,50,Scored substantive response
+Reliability,Q4.1,Mostly reliable,2,75,Scored substantive response
+Reliability,Q4.1,Always reliable,1,100,Scored substantive response
+Reliability,Q4.1,Rarely reliable,4,25,Scored substantive response
+Reliability,Q4.1,Not reliable,5,0,Scored substantive response
+Efficiency,Q5.1,Neutral,3,50,Scored substantive response
+Efficiency,Q5.1,Efficient,2,75,Scored substantive response
+Efficiency,Q5.1,Very efficient,1,100,Scored substantive response
+Efficiency,Q5.1,Very inefficient,5,0,Scored substantive response
+Efficiency,Q5.1,Inefficient,4,25,Scored substantive response
+Acceptability,Q6.1,Neutral,3,50,Scored substantive response
+Acceptability,Q6.1,Mostly satisfied,2,75,Scored substantive response
+Acceptability,Q6.1,Completely satisfied,1,100,Scored substantive response
+Acceptability,Q6.1,Mostly dissatisfied,4,25,Scored substantive response
+Acceptability,Q6.1,Completely dissatisfied,5,0,Scored substantive response
+Quality,Q7.1,Neutral,3,50,Scored substantive response
+Quality,Q7.1,Good,2,75,Scored substantive response
+Quality,Q7.1,Excellent,1,100,Scored substantive response
+Quality,Q7.1,Poor,4,25,Scored substantive response
+Quality,Q7.1,Very poor,5,0,Scored substantive response
+Quality,Q7.1,[No response recorded],,,Genuine nonresponse
+Quantity,Q8.1,Always sufficient,1,100,Scored substantive response
+Quantity,Q8.1,Occasionally sufficient,3,50,Scored substantive response
+Quantity,Q8.1,Mostly sufficient,2,75,Scored substantive response
+Quantity,Q8.1,Never sufficient,5,0,Scored substantive response
+Quantity,Q8.1,Rarely sufficient,4,25,Scored substantive response
+Customer service,Q9.1,Excellent,1,100,Scored substantive response
+Customer service,Q9.1,Neutral,3,50,Scored substantive response
+Customer service,Q9.1,Good,2,75,Scored substantive response
+Customer service,Q9.1,Very poor,5,0,Scored substantive response
+Customer service,Q9.1,Poor,4,25,Scored substantive response
+Customer service,Q9.1,We have a full water system in-house (not dependent on any provider),,,Structurally inapplicable
+Customer service,Q9.1,[No response recorded],,,Genuine nonresponse

@@ -1,0 +1,16 @@
+State or UT,Postal-directory matched N,Additional state-only 3-digit-prefix N,Combined sensitivity N,Directory matched percent of 6039,Combined sensitivity percent of 6039
+Tamil Nadu,5800,80,5880,96.042,97.367
+Andhra Pradesh,31,0,31,0.513,0.513
+Bihar,29,1,30,0.48,0.497
+Kerala,3,0,3,0.05,0.05
+Karnataka,3,0,3,0.05,0.05
+West Bengal,0,2,2,0.0,0.033
+Uttar Pradesh,0,2,2,0.0,0.033
+Haryana,0,2,2,0.0,0.033
+Jammu and Kashmir,1,0,1,0.017,0.017
+Manipur,1,0,1,0.017,0.017
+Telangana,1,0,1,0.017,0.017
+Madhya Pradesh,0,1,1,0.0,0.017
+TOTAL STATE CLASSIFIED,5869,88,5957,97.185,98.642
+UNRESOLVED AFTER PREFIX SENSITIVITY,,,82,,1.358
+ALL ANALYTICAL HOUSEHOLDS,,,6039,,100.0

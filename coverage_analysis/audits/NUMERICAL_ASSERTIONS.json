@@ -1,0 +1,23 @@
+{
+  "S30_rows": 7,
+  "S31_rows": 26,
+  "S32_rows": 15,
+  "sample_N": 6039,
+  "household_size_valid_N": 6013,
+  "normalized_PIN_records": 5991,
+  "unique_valid_PINs": 817,
+  "mapped_TN_N": 5778,
+  "unique_mapped_TN_PINs": 629,
+  "districts_represented": 37,
+  "detailed_GHS_PINs": 628,
+  "exact_vs_mode_agreement": "452/628 = 71.97%",
+  "postal_directory_classified_N": 5869,
+  "state_prefix_only_extra_N": 88,
+  "prefix_sensitivity_N": 5957,
+  "remaining_unresolved_N": 82,
+  "water_provision_municipality_N": 2848,
+  "water_provision_groundwater_N": 2630,
+  "car_english_blank_N": 2668,
+  "car_english_blank_coding": "Original coverage-analysis zero-car convention; source-level blank origin not independently established",
+  "postal_directory_reference": "2024 India-wide PIN directory"
+}

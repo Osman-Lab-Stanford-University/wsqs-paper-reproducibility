@@ -1,0 +1,27 @@
+Diagnostic,Result,Interpretation
+Coverage-analysis records,"6,039",Records available for demographic and spatial coverage assessment
+Valid six-digit PIN records,"5,991 (99.2%)",Six-digit PIN information after conservative format normalization
+Invalid or nonstandard PIN records,48 (0.8%),Not included in direct six-digit PIN matching
+Unique valid-format PIN codes,817,Distinct six-digit PIN codes before spatial matching
+Records matched to Tamil Nadu,"5,778",Records contributing to matched Tamil Nadu geographic analysis using the historical spatial reference
+Unique matched Tamil Nadu PIN codes,629,Distinct matched postal reference locations
+Districts represented,37/38 (97.4%),Districts with at least one matched postal reference location
+District not represented,Chengalpattu,No matched household PIN locations in this district
+Largest district share,"Salem, 27.95%",Greatest concentration in a principal recruitment district
+Three largest districts,"Salem, Karur and Namakkal, 76.31%",Concentration in the principal study geography
+Five largest districts,83.21%,Concentration among leading recruitment districts
+Effective number of districts,4.96,Uneven district representation despite wide geographic reach
+Maximum separation between matched PIN reference locations,643.3 km,Geographic extent of matched Tamil Nadu locations
+Matched Tamil Nadu PIN locations assigned a GHS-SMOD class,629/629 (100%),Complete settlement classification including the water-cell exception
+Detailed non-water GHS-SMOD classes represented,7/7,Breadth of detailed settlement environments sampled
+Degree of Urbanisation Level-1 classes represented,3/3,"Rural areas, towns and semi-dense areas, and cities"
+Aggregated settlement contexts represented,4/4,"Rural, suburban/peri-urban, urban-cluster and urban-centre categories represented"
+"Suburban/peri-urban, household-weighted",36.60%,Largest aggregated settlement category
+"Rural, household-weighted",29.40%,Substantial rural recruitment
+"Urban centre, household-weighted",25.82%,Substantial urban-centre recruitment
+"Urban cluster, household-weighted",8.13%,Additional smaller urban settlements represented
+Exact-cell versus surrounding 3 × 3 GHS-SMOD modal agreement,71.97% (628 PIN locations),Agreement among PIN locations with paired exact-cell and neighbourhood-modal classifications
+PIN reference coordinates intersecting a GHS-SMOD water cell,1 PIN location; 2 household records,Local classification exception
+Median local population density across unique PIN locations,695.9 people km⁻²,Central value of observed density distribution
+10th–90th percentile local population-density range,"196.0–10,186.7 people km⁻²",Broad range of population-density environments
+Maximum local population density,"Approximately 34,410 people km⁻²",Highest observed local density estimate
